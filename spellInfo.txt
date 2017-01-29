@@ -1,0 +1,605 @@
+AcidArrow				Sor/Wiz 2								V, S, M, F
+AcidFog					Sor/Wiz 6 Water 7						V, S, M/DF
+AcidSplash				Sor/Wiz 0								V, S
+Aid						Clr 2 Good 2 Luck 2						V, S, DF
+AirWalk					Air 4 Clr 4 Drd 4						V, S, DF
+Alarm					Brd 1 Rgr 1 Sor/Wiz 1					V, S, F/DF
+AlignWeapon				Clr 2									V, S, DF
+AlterSelf				Brd 2 Sor/Wiz 2							V, S
+AnalyzeDweomer			Brd 6 Sor/Wiz 6							V, S, F
+AnimalGrowth			Drd 5 Rgr 4 Sor/Wiz 5					V, S
+AnimalMessenger			Brd 2 Drd 2 Rgr 1						V, S, M
+AnimalShapes			Animal 7 Drd 8							V, S, DF
+AnimalTrance			Brd 2 Drd 2								V, S
+AnimateDead				Clr 3 Death 3 Sor/Wiz 4					V, S, M
+AnimateObjects			Brd 6 Chaos 6 Clr 6						V, S
+AnimatePlants			Drd 7 Plant 7							V
+AnimateRope				Brd 1 Sor/Wiz 1							V, S
+AntilifeShell			Animal 6 Clr 6 Drd 6					V, S, DF
+AntimagicField			Clr 8 Magic 6 Protection 6 Sor/Wiz 6	V, S, M/DF
+Antipathy				Drd 9 Sor/Wiz 8							V, S, M/DF
+AntiplantShell			Drd 4									V, S, DF
+ArcaneEye				Sor/Wiz 4								V, S, M
+ArcaneLock				Sor/Wiz 2								V, S, M
+ArcaneMark				Sor/Wiz 0								V, S
+ArcaneSight				Sor/Wiz 3								V, S
+ArcaneSight,Greater		Sor/Wiz 7								href="/srd/spellLists/sorcererWizardSpells.htm#seventhLevelSorcererWizardSpells">Sor/Wiz 7</a>
+AstralProjection		Clr 9 Sor/Wiz 9 Travel 9				V, S, M
+Atonement				Clr 5 Drd 5								V, S, M, F, DF, XP
+Augury					Clr 2									V, S, M, F
+Awaken					Drd 5									V, S, DF, XP
+BalefulPolymorph				Drd 5 Sor/Wiz 5				V, S
+Bane				Clr 1				V, S, DF
+Banishment				Clr 6 Sor/Wiz 7				V, S, F
+Barkskin				Drd 2 Rgr 2 Plant 2				V, S, DF
+Bear’sEndurance				Clr 2 Drd 2 Rgr 2 Sor/Wiz 2				V, S, DF
+Bear’sEndurance,Mass				Clr 6 Drd 6 Sor/Wiz 6				Close (25 ft. + 5 ft./2 levels)
+BestowCurse				Clr 3 Sor/Wiz 4				V, S
+Binding				Sor/Wiz 8				V, S, M
+BlackTentacles				Sor/Wiz 4				V, S, M
+BladeBarrier				Clr 6 Good 6 War 6				V, S
+Blasphemy				Clr 7 Evil 7				V
+Bless				Clr 1 Pal 1				V, S, DF
+BlessWater				Clr 1 Pal 1				V, S, M
+BlessWeapon				Pal 1				V, S
+Blight				Drd 4 Sor/Wiz 5				V, S, DF
+Blindness/Deafness				Brd 2 Clr 3 Sor/Wiz 2				V
+Blink				Brd 3 Sor/Wiz 3				V, S
+Blur				Brd 2 Sor/Wiz 2				V
+BreakEnchantment				Brd 4 Clr 5 Luck 5 Pal 4 Sor/Wiz 5				V, S
+Bull’sStrength				Clr 2 Drd 2 Pal 2 Sor/Wiz 2 Strength 2				V, S, M/DF
+Bull’sStrength,Mass				Clr 6 Drd 6 Sor/Wiz 6				Close (25 ft. + 5 ft./2 levels)
+BurningHands				Fire 1 Sor/Wiz 1				V, S
+CallLightning				Drd 3				V, S
+CallLightningStorm				Drd 5				Long (400 ft. + 40 ft./level)
+CalmAnimals				Animal 1 Drd 1 Rgr 1				V, S
+CalmEmotions				Brd 2 Clr 2 Law 2				V, S, DF
+Cat’sGrace				Brd 2 Drd 2 Rgr 2 Sor/Wiz 2				V, S, M
+Cat’sGrace,Mass				Brd 6 Drd 6 Sor/Wiz 6				Close (25 ft. + 5 ft./2 levels)
+CauseFear				Brd 1 Clr 1 Death 1 Sor/Wiz 1				V, S
+ChainLightning				Air 6 Sor/Wiz 6				V, S, F
+Changestaff				Drd 7				V, S, F
+ChaosHammer				Chaos 4				V, S
+CharmAnimal				Drd 1 Rgr 1				One animal
+CharmMonster				Brd 3 Sor/Wiz 4				One living creature
+CharmMonster,Mass				Brd 6 Sor/Wiz 8				V
+CharmPerson				Brd 1 Sor/Wiz 1				V, S
+ChillMetal				Drd 2				V, S, DF
+ChillTouch				Sor/Wiz 1				V, S
+CircleofDeath				Sor/Wiz 6				V, S, M
+Clairaudience/Clairvoyance				Brd 3 Knowledge 3 Sor/Wiz 3				V, S, F/DF
+ClenchedFist				Sor/Wiz 8 Strength 8				V, S, F/DF
+CloakofChaos				Chaos 8 Clr 8				V, S, F
+Clone				Sor/Wiz 8				V, S, M, F
+Cloudkill				Sor/Wiz 5				V, S
+ColorSpray				Sor/Wiz 1				V, S, M
+Command				Clr 1				V
+Command,Greater				Clr 5				One creature/level, no two of which can be more than 30 ft. apart
+CommandPlants				Drd 4 Plant 4 Rgr 3				V
+CommandUndead				Sor/Wiz 2				V, S, M
+Commune				Clr 5				V, S, M, DF, XP
+CommunewithNature				Animal 5 Drd 5 Rgr 4				V, S
+ComprehendLanguages				Brd 1 Clr 1 Sor/Wiz 1				V, S, M/DF
+ConeofCold				Sor/Wiz 5 Water 6				V, S, M/DF
+Confusion				Brd 3 Sor/Wiz 4 Trickery 4				V, S, M/DF
+Confusion,Lesser				Brd 1				V, S, DF
+Consecrate				Clr 2				V, S, M, DF
+ContactOtherPlane				Sor/Wiz 5				V
+Contagion				Clr 3 Destruction 3 Drd 3 Sor/Wiz 4				V, S
+Contingency				Sor/Wiz 6				V, S, M, F
+ContinualFlame				Clr 3 Sor/Wiz 2				V, S, M
+ControlPlants				Drd 8 Plant 8				V, S, DF
+ControlUndead				Sor/Wiz 7				V, S, M
+ControlWater				Clr 4 Drd 4 Sor/Wiz 6 Water 4				V, S, M/DF
+ControlWeather				Air 7 Clr 7 Drd 7 Sor/Wiz 7				V, S
+ControlWinds				Air 5 Drd 5				V, S
+CreateFoodandWater				Clr 3				V, S
+CreateGreaterUndead				Clr 8 Death 8 Sor/Wiz 8				 href="/srd/spellLists/sorcererWizardSpells.htm#eighthLevelSorcererWizardSpells">Sor/Wiz 8</a>
+CreateUndead				Clr 6 Death 6 Evil 6 Sor/Wiz 6				V, S, M
+CreateWater				Clr 0 Drd 0 Pal 1				V, S
+CreepingDoom				Drd 7				V, S
+CrushingDespair				Brd 3 Sor/Wiz 4				V, S, M
+CrushingHand				Sor/Wiz 9 Strength 9				V, S, M, F/DF
+CureCriticalWounds				Brd 4 Clr 4 Drd 5 Healing 4				 href="/srd/spellLists/clericDomains.htm#healingDomain">Healing 4</a>
+CureCriticalWounds,Mass				Clr 8 Drd 9 Healing 8				 href="/srd/spellLists/clericDomains.htm#healingDomain">Healing 8</a>
+CureLightWounds				Brd 1 Clr 1 Drd 1 Healing 1 Pal 1 Rgr 2				V, S
+CureLightWounds,Mass				Brd 5 Clr 5 Drd 6 Healing 5				V, S
+CureMinorWounds				Clr 0 Drd 0				 href="/srd/spellLists/druidSpells.htm#zeroLevelDruidSpells">Drd 0</a>
+CureModerateWounds				Brd 2 Clr 2 Drd 3 Healing 2 Pal 3 Rgr 3				 href="/srd/spellLists/rangerSpells.htm#thirdLevelRangerSpells">Rgr 3</a>
+CureModerateWounds,Mass				Brd 6 Clr 6 Drd 7				 href="/srd/spellLists/druidSpells.htm#seventhLevelDruidSpells">Drd 7</a>
+CureSeriousWounds				Brd 3 Clr 3 Drd 4 Pal 4 Rgr 4 Healing 3				 href="/srd/spellLists/clericDomains.htm#healingDomain">Healing 3</a>
+CureSeriousWounds,Mass				Clr 7 Drd 8				 href="/srd/spellLists/druidSpells.htm#eighthLevelDruidSpells">Drd 8</a>
+CurseWater				Clr 1				V, S, M
+DancingLights				Brd 0 Sor/Wiz 0				V, S
+Darkness				Brd 2 Clr 2 Sor/Wiz 2				V, M/DF
+Darkvision				Rgr 3 Sor/Wiz 2				V, S, M
+Daylight				Brd 3 Clr 3 Drd 3 Pal 3 Sor/Wiz 3				V, S
+Daze				Brd 0 Sor/Wiz 0				V, S, M
+DazeMonster				Brd 2 Sor/Wiz 2				Medium (100 ft. + 10 ft./level)
+DeathKnell				Clr 2 Death 2				V, S
+DeathWard				Clr 4 Death 4 Drd 5 Pal 4				V, S, DF
+Deathwatch				Clr 1				V, S
+DeepSlumber				Brd 3 Sor/Wiz 3				Close (25 ft. + 5 ft./2 levels)
+DeeperDarkness				Clr 3				One day/level (D)
+DelayPoison				Brd 2 Clr 2 Drd 2 Pal 2 Rgr 1				V, S, DF
+DelayedBlastFireball				Sor/Wiz 7				5 rounds or less; see text
+Demand				Sor/Wiz 8				Will partial
+Desecrate				Clr 2 Evil 2				V, S, M, DF
+Destruction				Clr 7 Death 7				V, S, F
+DetectAnimalsorPlants				Drd 1 Rgr 1				V, S
+DetectChaos				Clr 1				href="/srd/spellLists/clericSpells.htm#firstLevelClericSpells">Clr 1</a>
+DetectEvil				Clr 1				V, S, DF
+DetectGood				Clr 1				href="/srd/spellLists/clericSpells.htm#firstLevelClericSpells">Clr 1</a>
+DetectLaw				Clr 1				href="/srd/spellLists/clericSpells.htm#firstLevelClericSpells">Clr 1</a>
+DetectMagic				Brd 0 Clr 0 Drd 0 Sor/Wiz 0				V, S
+DetectPoison				Clr 0 Drd 0 Pal 1 Rgr 1 Sor/Wiz 0				V, S
+DetectScrying				Brd 4 Sor/Wiz 4				V, S, M
+DetectSecretDoors				Brd 1 Knowledge 1 Sor/Wiz 1				V, S
+DetectSnaresandPits				Drd 1 Rgr 1				V, S
+DetectThoughts				Brd 2 Knowledge 2 Sor/Wiz 2				V, S, F/DF
+DetectUndead				Clr 1 Pal 1 Sor/Wiz 1				V, S, M/DF
+Dictum				Clr 7 Law 7				V
+DimensionDoor				Brd 4 Sor/Wiz 4 Travel 4				V
+DimensionalAnchor				Clr 4 Sor/Wiz 4				V, S
+DimensionalLock				Clr 8 Sor/Wiz 8				V, S
+DiminishPlants				Drd 3 Rgr 3				V, S, DF
+DiscernLies				Clr 4 Pal 3				V, S, DF
+DiscernLocation				Clr 8 Knowledge 8 Sor/Wiz 8				V, S, DF
+DisguiseSelf				Brd 1 Sor/Wiz 1 Trickery 1				V, S
+Disintegrate				Destruction 7 Sor/Wiz 6				V, S, M/DF
+Dismissal				Clr 4 Sor/Wiz 5				V, S, DF
+DispelChaos				Clr 5 Law 5 Pal 4				 href="/srd/spellLists/paladinSpells.htm#fourthLevelPaladinSpells">Pal 4</a>
+DispelEvil				Clr 5 Good 5 Pal 4				V, S, DF
+DispelGood				Clr 5 Evil 5				 href="/srd/spellLists/clericDomains.htm#evilDomain">Evil 5</a>
+DispelLaw				Chaos 5 Clr 5				 href="/srd/spellLists/clericSpells.htm#fifthLevelClericSpells">Clr 5</a>
+DispelMagic				Brd 3 Clr 3 Drd 4 Magic 3 Pal 3 Sor/Wiz 3				V, S
+DispelMagic,Greater				Brd 5 Clr 6 Drd 6 Sor/Wiz 6				 href="/srd/spellLists/sorcererWizardSpells.htm#sixthLevelSorcererWizardSpells">Sor/Wiz 6</a>
+Displacement				Brd 3 Sor/Wiz 3				V, M
+DisruptUndead				Sor/Wiz 0				V, S
+DisruptingWeapon				Clr 5				V, S
+Divination				Clr 4 Knowledge 4				V, S, M
+DivineFavor				Clr 1 Pal 1				V, S, DF
+DivinePower				Clr 4 War 4				V, S, DF
+DominateAnimal				Animal 3 Drd 3				V, S
+DominateMonster				Sor/Wiz 9				One creature
+DominatePerson				Brd 4 Sor/Wiz 5				V, S
+Doom				Clr 1				V, S, DF
+Dream				Brd 5 Sor/Wiz 5				V, S
+Eagle’sSplendor				Brd 2 Clr 2 Pal 2 Sor/Wiz 2				V, S, M/DF
+Eagle’sSplendor,Mass				Brd 6 Clr 6 Sor/Wiz 6				Close (25 ft. + 5 ft./2 levels)
+Earthquake				Clr 8 Destruction 8 Drd 8 Earth 7				V, S, DF
+ElementalSwarm				Air 9 Drd 9 Earth 9 Fire 9 Water 9				V, S
+EndureElements				Clr 1 Drd 1 Pal 1 Rgr 1 Sor/Wiz 1 Sun 1				V, S
+EnergyDrain				Clr 9 Sor/Wiz 9				Fortitude partial; see text for <a class="spell" href="/srd/spells/enervation.htm">enervation</a>
+Enervation				Sor/Wiz 4				V, S
+EnlargePerson				Sor/Wiz 1 Strength 1				V, S, M
+EnlargePerson,Mass				Sor/Wiz 4				One <a href="/srd/typesSubtypes.htm#humanoidType">humanoid</a> creature/level, no two of which can be more than 30 ft. apart
+Entangle				Drd 1 Plant 1 Rgr 1				V, S, DF
+Enthrall				Brd 2 Clr 2				V, S
+EntropicShield				Clr 1 Luck 1				V, S
+Erase				Brd 1 Sor/Wiz 1				V, S
+EtherealJaunt				Clr 7 Sor/Wiz 7				V, S
+Etherealness				Clr 9 Sor/Wiz 9				Touch; see text
+ExpeditiousRetreat				Brd 1 Sor/Wiz 1				V, S
+ExplosiveRunes				Sor/Wiz 3				V, S
+Eyebite				Brd 6 Sor/Wiz 6				V, S
+Fabricate				Sor/Wiz 5				V, S, M
+FaerieFire				Drd 1				V, S, DF
+FalseLife				Sor/Wiz 2				V, S, M
+FalseVision				Brd 5 Sor/Wiz 5 Trickery 5				V, S, M
+Fear				Brd 3 Sor/Wiz 4				V, S, M
+FeatherFall				Brd 1 Sor/Wiz 1				V
+Feeblemind				Sor/Wiz 5				V, S, M
+FindthePath				Brd 6 Clr 6 Drd 6 Knowledge 6 Travel 6				V, S, F
+FindTraps				Clr 2				V, S
+FingerofDeath				Drd 8 Sor/Wiz 7				V, S
+FireSeeds				Drd 6 Fire 6 Sun 6				V, S, M
+FireShield				Fire 5 Sor/Wiz 4 Sun 4				V, S, M/DF
+FireStorm				Clr 8 Drd 7 Fire 7				V, S
+FireTrap				Drd 2 Sor/Wiz 4				V, S, M
+Fireball				Sor/Wiz 3				V, S, M
+FlameArrow				Sor/Wiz 3				V, S, M
+FlameBlade				Drd 2				V, S, DF
+FlameStrike				Clr 5 Drd 4 Sun 5 War 5				V, S, DF
+FlamingSphere				Drd 2 Sor/Wiz 2				V, S, M/DF
+Flare				Brd 0 Drd 0 Sor/Wiz 0				V
+FleshtoStone				Sor/Wiz 6				V, S, M
+Fly				Sor/Wiz 3 Travel 3				V, S, F/DF
+FloatingDisk				Sor/Wiz 1				V, S, M
+FogCloud				Drd 2 Sor/Wiz 2 Water 2				V, S
+Forbiddance				Clr 6				V, S, M, DF
+Forcecage				Sor/Wiz 7				V, S, M
+ForcefulHand				Sor/Wiz 6				V, S, F
+Foresight				Drd 9 Knowledge 9 Sor/Wiz 9				V, S, M/DF
+Fox’sCunning				Brd 2 Sor/Wiz 2				V, S, M/DF
+Fox’sCunning,Mass				Brd 6 Sor/Wiz 6				Close (25 ft. + 5 ft./2 levels)
+Freedom				Sor/Wiz 9				V, S
+FreedomofMovement				Brd 4 Clr 4 Drd 4 Luck 4 Rgr 4				V, S, M, DF
+FreezingSphere				Sor/Wiz 6				V, S, F
+GaseousForm				Air 3 Brd 3 Sor/Wiz 3				S, M/DF
+Gate				Clr 9 Sor/Wiz 9				V, S, XP; see text
+Geas/Quest				Brd 6 Clr 6 Sor/Wiz 6				10 minutes
+Geas,Lesser				Brd 3 Sor/Wiz 4				V
+GentleRepose				Clr 2 Sor/Wiz 3				V, S, M/DF
+GhostSound				Brd 0 Sor/Wiz 0				V, S, M
+GhoulTouch				Sor/Wiz 2				V, S, M
+GiantVermin				Clr 4 Drd 4				V, S, DF
+Glibness				Brd 3				S
+Glitterdust				Brd 2 Sor/Wiz 2				V, S, M
+GlobeofInvulnerability				Sor/Wiz 6				href="/srd/spellLists/sorcererWizardSpells.htm#sixthLevelSorcererWizardSpells">Sor/Wiz 6</a>
+GlobeofInvulnerability,Lesser				Sor/Wiz 4				V, S, M
+GlyphofWarding				Clr 3				V, S, M
+GlyphofWarding,Greater				Clr 6				href="/srd/spellLists/clericSpells.htm#sixthLevelClericSpells">Clr 6</a>
+Goodberry				Drd 1				V, S, DF
+GoodHope				Brd 3				V, S
+GraspingHand				Sor/Wiz 7 Strength 7				V, S, F/DF
+Grease				Brd 1 Sor/Wiz 1				V, S, M
+GuardsandWards				Sor/Wiz 6				V, S, M, F
+Guidance				Clr 0 Drd 0				V, S
+GustofWind				Drd 2 Sor/Wiz 2				V, S
+Hallow				Clr 5 Drd 5				V, S, M, DF
+HallucinatoryTerrain				Brd 4 Sor/Wiz 4				V, S, M
+HaltUndead				Sor/Wiz 3				V, S, M
+Harm				Clr 6 Destruction 6				V, S
+Haste				Brd 3 Sor/Wiz 3				V, S, M
+Heal				Clr 6 Drd 7 Healing 6				V, S
+Heal,Mass				Clr 9 Healing 9				Close (25 ft. + 5 ft./2 levels)
+HealMount				Pal 3				V, S
+HeatMetal				Drd 2 Sun 2				V, S, DF
+HelpingHand				Clr 3				V, S, DF
+Heroes’Feast				Brd 6 Clr 6				V, S, DF
+Heroism				Brd 2 Sor/Wiz 3				V, S
+Heroism,Greater				Brd 5 Sor/Wiz 6				1 min./level
+HidefromAnimals				Drd 1 Rgr 1				S, DF
+HidefromUndead				Clr 1				V, S, DF
+HideousLaughter				Brd 1 Sor/Wiz 2				V, S, M
+HoldAnimal				Animal 2 Drd 2 Rgr 2				V, S
+HoldMonster				Brd 4 Law 6 Sor/Wiz 5				V, S, M/DF
+HoldMonster,Mass				Sor/Wiz 9				One or more creatures, no two of which can be more than 30 ft. apart
+HoldPerson				Brd 2 Clr 2 Sor/Wiz 3				V, S, F/DF
+HoldPerson,Mass				Sor/Wiz 7				One or more <a href="/srd/typesSubtypes.htm#humanoidType">humanoid</a> creatures, no two of which can be more than 30 ft. apart
+HoldPortal				Sor/Wiz 1				V
+HolyAura				Clr 8 Good 8				V, S, F
+HolySmite				Good 4				V, S
+HolySword				Pal 4				V, S
+HolyWord				Clr 7 Good 7				V
+HorridWilting				Sor/Wiz 8 Water 8				V, S, M/DF
+HypnoticPattern				Brd 2 Sor/Wiz 2				V (Brd only), S, M; see text
+Hypnotism				Brd 1 Sor/Wiz 1				V, S
+IceStorm				Drd 4 Sor/Wiz 4 Water 5				V, S, M/DF
+Identify				Brd 1 Magic 2 Sor/Wiz 1				V, S, M/DF
+IllusoryScript				Brd 3 Sor/Wiz 3				V, S, M
+IllusoryWall				Sor/Wiz 4				V, S
+ImbuewithSpellAbility				Clr 4 Magic 4				V, S, DF
+Implosion				Clr 9 Destruction 9				V, S
+Imprisonment				Sor/Wiz 9				V, S
+IncendiaryCloud				Fire 8 Sor/Wiz 8				V, S
+InflictCriticalWounds				Clr 4 Destruction 4				 href="/srd/spellLists/clericDomains.htm#destructionDomain">Destruction 4</a>
+InflictCriticalWounds,Mass				Clr 8				href="/srd/spellLists/clericSpells.htm#eighthLevelClericSpells">Clr 8</a>
+InflictLightWounds				Clr 1 Destruction 1				V, S
+InflictLightWounds,Mass				Clr 5 Destruction 5				V, S
+InflictMinorWounds				Clr 0				Will negates
+InflictModerateWounds				Clr 2				href="/srd/spellLists/clericSpells.htm#secondLevelClericSpells">Clr 2</a>
+InflictModerateWounds,Mass				Clr 6				href="/srd/spellLists/clericSpells.htm#sixthLevelClericSpells">Clr 6</a>
+InflictSeriousWounds				Clr 3				href="/srd/spellLists/clericSpells.htm#thirdLevelClericSpells">Clr 3</a>
+InflictSeriousWounds,Mass				Clr 7				href="/srd/spellLists/clericSpells.htm#seventhLevelClericSpells">Clr 7</a>
+Insanity				Sor/Wiz 7				V, S
+InsectPlague				Clr 5 Drd 5				V, S, DF
+InstantSummons				Sor/Wiz 7				V, S, M
+InterposingHand				Sor/Wiz 5				V, S, F
+Invisibility				Brd 2 Sor/Wiz 2 Trickery 2				V, S, M/DF
+Invisibility,Greater				Brd 4 Sor/Wiz 4				V, S
+Invisibility,Mass				Sor/Wiz 7				V, S, M
+InvisibilityPurge				Clr 3				V, S
+InvisibilitySphere				Brd 3 Sor/Wiz 3				V, S, M
+IronBody				Earth 8 Sor/Wiz 8				V, S, M/DF
+Ironwood				Drd 6				V, S, M
+IrresistibleDance				Brd 6 Sor/Wiz 8				V
+Jump				Drd 1 Rgr 1 Sor/Wiz 1				V, S, M
+KeenEdge				Sor/Wiz 3				V, S
+Knock				Sor/Wiz 2				V
+KnowDirection				Brd 0 Drd 0				V, S
+LegendLore				Brd 4 Knowledge 7 Sor/Wiz 6				V, S, M, F
+Levitate				Sor/Wiz 2				V, S, F
+Light				Brd 0 Clr 0 Drd 0 Sor/Wiz 0				V, M/DF
+LightningBolt				Sor/Wiz 3				V, S, M
+LimitedWish				Sor/Wiz 7				V, S, XP
+Liveoak				Drd 6				V, S
+LocateCreature				Brd 4 Sor/Wiz 4				V, S, M
+LocateObject				Brd 2 Clr 3 Sor/Wiz 2 Travel 2				V, S, F/DF
+Longstrider				Drd 1 Rgr 1 Travel 1				V, S, M
+Lullaby				Brd 0				V, S
+MageArmor				Sor/Wiz 1				V, S, F
+MageHand				Brd 0 Sor/Wiz 0				V, S
+Mage’sDisjunction				Magic 9 Sor/Wiz 9				V
+Mage’sFaithfulHound				Sor/Wiz 5				V, S, M
+Mage’sLucubration								V, S
+Mage’sMagnificentMansion				Sor/Wiz 7				V, S, F
+Mage’sPrivateSanctum				Sor/Wiz 5				V, S, M
+Mage’sSword				Sor/Wiz 7				V, S, F
+MagicAura				Brd 1 Magic 1 Sor/Wiz 1				V, S, F
+MagicCircleagainstChaos				Clr 3 Law 3 Pal 3 Sor/Wiz 3				 href="/srd/spellLists/sorcererWizardSpells.htm#thirdLevelSorcererWizardSpells">Sor/Wiz 3</a>
+MagicCircleagainstEvil				Clr 3 Good 3 Pal 3 Sor/Wiz 3				V, S, M/DF
+MagicCircleagainstGood				Clr 3 Evil 3 Sor/Wiz 3				 href="/srd/spellLists/sorcererWizardSpells.htm#thirdLevelSorcererWizardSpells">Sor/Wiz 3</a>
+MagicCircleagainstLaw				Chaos 3 Clr 3 Sor/Wiz 3				 href="/srd/spellLists/sorcererWizardSpells.htm#thirdLevelSorcererWizardSpells">Sor/Wiz 3</a>
+MagicFang				Drd 1 Rgr 1				V, S, DF
+MagicFang,Greater				Drd 3 Rgr 3				Close (25 ft. + 5 ft./2 levels)
+MagicJar				Sor/Wiz 5				V, S, F
+MagicMissile				Sor/Wiz 1				V, S
+MagicMouth				Brd 1 Sor/Wiz 2				V, S, M
+MagicStone				Clr 1 Drd 1 Earth 1				V, S, DF
+MagicVestment				Clr 3 Strength 3 War 3				V, S, DF
+MagicWeapon				Clr 1 Pal 1 Sor/Wiz 1 War 1				V, S, DF
+MagicWeapon,Greater				Clr 4 Pal 3 Sor/Wiz 3				V, S, M/DF
+MajorCreation				Sor/Wiz 5				10 minutes
+MajorImage				Brd 3 Sor/Wiz 3				<a href="/srd/skills/concentration.htm">Concentration</a> + 3 rounds
+MakeWhole				Clr 2				1 <a href="/srd/combat/actionsInCombat.htm#standardActions">standard action</a>
+MarkofJustice				Clr 5 Pal 4				V, S, DF
+Maze				Sor/Wiz 8				V, S
+MeldintoStone				Clr 3 Drd 3				V, S, DF
+Mending				Brd 0 Clr 0 Drd 0 Sor/Wiz 0				V, S
+Message				Brd 0 Sor/Wiz 0				V, S, F
+MeteorSwarm				Sor/Wiz 9				V, S
+MindBlank				Protection 8 Sor/Wiz 8				V, S
+MindFog				Brd 5 Sor/Wiz 5				V, S
+MinorCreation				Sor/Wiz 4				V, S, M
+MinorImage				Brd 2 Sor/Wiz 2				<a href="/srd/skills/concentration.htm">Concentration</a> +2 rounds
+Miracle				Clr 9 Luck 9				V, S, XP; see text
+MirageArcana				Brd 5 Sor/Wiz 5				V, S
+MirrorImage				Brd 2 Sor/Wiz 2				V, S
+Misdirection				Brd 2 Sor/Wiz 2				V, S
+Mislead				Brd 5 Luck 6 Sor/Wiz 6 Trickery 6				S
+MnemonicEnhancer								V, S, M, F
+ModifyMemory				Brd 4				V, S
+MomentofPrescience				Luck 8 Sor/Wiz 8				V, S
+Mount				Sor/Wiz 1				V, S, M
+MoveEarth				Drd 6 Sor/Wiz 6				V, S, M
+NeutralizePoison				Brd 4 Clr 4 Drd 3 Pal 4 Rgr 3				V, S, M/DF
+Nightmare				Brd 5 Sor/Wiz 5				V, S
+Nondetection				Rgr 4 Sor/Wiz 3 Trickery 3				V, S, M
+ObscureObject				Brd 1 Clr 3 Sor/Wiz 2				V, S, M/DF
+ObscuringMist				Air 1 Clr 1 Drd 1 Sor/Wiz 1 Water 1				V, S
+Open/Close				Brd 0 Sor/Wiz 0				V, S, F
+Order’sWrath				Law 4				V, S
+OverlandFlight				Sor/Wiz 5				V, S
+Owl’sWisdom				Clr 2 Drd 2 Pal 2 Rgr 2 Sor/Wiz 2				V, S, M/DF
+Owl’sWisdom,Mass				Clr 6 Drd 6 Sor/Wiz 6				Close (25 ft. + 5 ft./2 levels)
+Passwall				Sor/Wiz 5				V, S, M
+PasswithoutTrace				Drd 1 Rgr 1				V, S, DF
+Permanency				Sor/Wiz 5				V, S, XP
+PermanentImage				Brd 6 Sor/Wiz 6				V, S, M, F
+PersistentImage				Brd 5 Sor/Wiz 5				1 min./level (D)
+PhantasmalKiller				Sor/Wiz 4				V, S
+PhantomSteed				Brd 3 Sor/Wiz 3				V, S
+PhantomTrap				Sor/Wiz 2				V, S, M
+PhaseDoor				Sor/Wiz 7 Travel 8				V
+PlanarAlly				Clr 6				One or two called <a href="/srd/typesSubtypes.htm#elementalType">elementals</a> or <a href="/srd/typesSubtypes.htm#outsiderType">outsiders</a>, totaling no more than 12 HD, which cannot be more than 30 ft. apart when they appear
+PlanarAlly,Greater				Clr 8				Up to three called <a href="/srd/typesSubtypes.htm#elementalType">elementals</a> or <a href="/srd/typesSubtypes.htm#outsiderType">outsiders</a>, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear.
+PlanarAlly,Lesser				Clr 4				V, S, DF, XP
+PlanarBinding				Sor/Wiz 6				V, S
+PlanarBinding,Greater				Sor/Wiz 8				V, S
+PlanarBinding,Lesser				Sor/Wiz 5				V, S
+PlaneShift				Clr 5 Sor/Wiz 7				V, S, F
+PlantGrowth				Drd 3 Plant 3 Rgr 3				V, S, DF
+Poison				Clr 4 Drd 3				V, S, DF
+PolarRay				Sor/Wiz 8				V, S, F
+Polymorph				Sor/Wiz 4				V, S, M
+PolymorphAnyObject				Sor/Wiz 8 Trickery 8				V, S, M/DF
+PowerWordBlind				Sor/Wiz 7 War 7				V
+PowerWordKill				Sor/Wiz 9 War 9				V
+PowerWordStun				Sor/Wiz 8 War 8				V
+Prayer				Clr 3 Pal 3				V, S, DF
+Prestidigitation				Brd 0 Sor/Wiz 0				V, S
+PrismaticSphere				Protection 9 Sor/Wiz 9 Sun 9				V
+PrismaticSpray				Sor/Wiz 7				V, S
+PrismaticWall				Sor/Wiz 8				V, S
+ProduceFlame				Drd 1 Fire 2				V, S
+ProgrammedImage				Brd 6 Sor/Wiz 6				Visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)
+ProjectImage				Brd 6 Sor/Wiz 7				V, S, M
+ProtectionfromArrows				Sor/Wiz 2				V, S, F
+ProtectionfromChaos				Clr 1 Law 1 Pal 1 Sor/Wiz 1				 href="/srd/spellLists/sorcererWizardSpells.htm#firstLevelSorcererWizardSpells">Sor/Wiz 1</a>
+ProtectionfromEnergy				Clr 3 Drd 3 Luck 3 Protection 3 Rgr 2 Sor/Wiz 3				V, S, DF
+ProtectionfromEvil				Clr 1 Good 1 Pal 1 Sor/Wiz 1				V, S, M/DF
+ProtectionfromGood				Clr 1 Evil 1 Sor/Wiz 1				 href="/srd/spellLists/sorcererWizardSpells.htm#firstLevelSorcererWizardSpells">Sor/Wiz 1</a>
+ProtectionfromLaw				Chaos 1 Clr 1 Sor/Wiz 1				 href="/srd/spellLists/sorcererWizardSpells.htm#firstLevelSorcererWizardSpells">Sor/Wiz 1</a>
+ProtectionfromSpells				Magic 8 Sor/Wiz 8				V, S, M, F
+PryingEyes				Sor/Wiz 5				V, S, M
+PryingEyes,Greater				Sor/Wiz 8				href="/srd/spellLists/sorcererWizardSpells.htm#eighthLevelSorcererWizardSpells">Sor/Wiz 8</a>
+PurifyFoodandDrink				Clr 0 Drd 0				V, S
+Pyrotechnics				Brd 2 Sor/Wiz 2				V, S, M
+Quench				Drd 3				V, S, DF
+Rage				Brd 2 Sor/Wiz 3				V, S
+RainbowPattern				Brd 4 Sor/Wiz 4				V (Brd only), S, M, F; see text
+RaiseDead				Clr 5				V, S, M, DF
+RayofEnfeeblement				Sor/Wiz 1				V, S
+RayofExhaustion				Sor/Wiz 3				V, S, M
+RayofFrost				Sor/Wiz 0				V, S
+ReadMagic				Brd 0 Clr 0 Drd 0 Pal 1 Rgr 1 Sor/Wiz 0				V, S, F
+ReduceAnimal				Drd 2 Rgr 3				V, S
+ReducePerson				Sor/Wiz 1				V, S, M
+ReducePerson,Mass				Sor/Wiz 4				One <a href="/srd/typesSubtypes.htm#humanoidType">humanoid</a> creature/level, no two of which can be more than 30 ft. apart
+Refuge				Clr 7 Sor/Wiz 9				V, S, M
+Regenerate				Clr 7 Drd 9 Healing 7				V, S, DF
+Reincarnate				Drd 4				V, S, M, DF
+RemoveBlindness/Deafness				Clr 3 Pal 3				V, S
+RemoveCurse				Brd 3 Clr 3 Pal 3 Sor/Wiz 4				V, S
+RemoveDisease				Clr 3 Drd 3 Rgr 3				V, S
+RemoveFear				Brd 1 Clr 1				V, S
+RemoveParalysis				Clr 2 Pal 2				V, S
+RepelMetalorStone				Drd 8				V, S
+RepelVermin				Brd 4 Clr 4 Drd 4 Rgr 3				V, S, DF
+RepelWood				Drd 6 Plant 6				V, S
+Repulsion				Clr 7 Protection 7 Sor/Wiz 6				V, S, F/DF
+ResilientSphere				Sor/Wiz 4				V, S, M
+Resistance				Brd 0 Clr 0 Drd 0 Pal 1 Sor/Wiz 0				V, S, M/DF
+ResistEnergy				Clr 2 Drd 2 Fire 3 Pal 2 Rgr 1 Sor/Wiz 2				V, S, DF
+Restoration				Clr 4 Pal 4				V, S, M
+Restoration,Greater				Clr 7				V, S, XP
+Restoration,Lesser				Clr 2 Drd 2 Pal 1				V, S
+Resurrection				Clr 7				10 minutes
+ReverseGravity				Drd 8 Sor/Wiz 7				V, S, M/DF
+RighteousMight				Clr 5 Strength 5				V, S, DF
+RopeTrick				Sor/Wiz 2				V, S, M
+RustingGrasp				Drd 4				V, S, DF
+Sanctuary				Clr 1 Protection 1				V, S, DF
+Scare				Brd 2 Sor/Wiz 2				V, S, M
+ScintillatingPattern				Sor/Wiz 8				V, S, M
+ScorchingRay				Sor/Wiz 2				V, S
+Screen				Sor/Wiz 8 Trickery 7				V, S
+Scrying				Brd 3 Clr 5 Drd 4 Sor/Wiz 4				V, S, M/DF, F
+Scrying,Greater				Brd 6 Clr 7 Drd 7 Sor/Wiz 7				V, S
+SculptSound				Brd 3				V, S
+SearingLight				Clr 3 Sun 3				V, S
+SecretChest				Sor/Wiz 5				V, S, F
+SecretPage				Brd 3 Sor/Wiz 3				V, S, M
+SecureShelter				Brd 4 Sor/Wiz 4				V, S, M, F; see text
+SeeInvisibility				Brd 3 Sor/Wiz 2				V, S, M
+Seeming				Brd 5 Sor/Wiz 5				V, S
+Sending				Clr 4 Sor/Wiz 5				V, S, M/DF
+SepiaSnakeSigil				Brd 3 Sor/Wiz 3				V, S, M
+Sequester				Sor/Wiz 7				V, S, M
+Shades				Sor/Wiz 9				href="/srd/spellLists/sorcererWizardSpells.htm#ninthLevelSorcererWizardSpells">Sor/Wiz 9</a>
+ShadowConjuration				Brd 4 Sor/Wiz 4				V, S
+ShadowConjuration,Greater				Sor/Wiz 7				href="/srd/spellLists/sorcererWizardSpells.htm#seventhLevelSorcererWizardSpells">Sor/Wiz 7</a>
+ShadowEvocation				Brd 5 Sor/Wiz 5				V, S
+ShadowEvocation,Greater				Sor/Wiz 8				href="/srd/spellLists/sorcererWizardSpells.htm#eighthLevelSorcererWizardSpells">Sor/Wiz 8</a>
+ShadowWalk				Brd 5 Sor/Wiz 6				V, S
+Shambler				Drd 9 Plant 9				V, S
+Shapechange				Animal 9 Drd 9 Sor/Wiz 9				V, S, F
+Shatter				Brd 2 Chaos 2 Clr 2 Destruction 2 Sor/Wiz 2				V, S, M/DF
+Shield				Sor/Wiz 1				V, S
+ShieldofFaith				Clr 1				V, S, M
+ShieldofLaw				Clr 8 Law 8				V, S, F
+ShieldOther				Clr 2 Pal 2 Protection 2				V, S, F
+Shillelagh				Drd 1				V, S, DF
+ShockingGrasp				Sor/Wiz 1				V, S
+Shout				Brd 4 Sor/Wiz 4				V
+Shout,Greater				Brd 6 Sor/Wiz 8				V, S, F
+ShrinkItem				Sor/Wiz 3				V, S
+Silence				Brd 2 Clr 2				V, S
+SilentImage				Brd 1 Sor/Wiz 1				V, S, F
+Simulacrum				Sor/Wiz 7				V, S, M, XP
+SlayLiving				Clr 5 Death 5				V, S
+Sleep				Brd 1 Sor/Wiz 1				V, S, M
+SleetStorm				Drd 3 Sor/Wiz 3				V, S, M/DF
+Slow				Brd 3 Sor/Wiz 3				V, S, M
+Snare				Rgr 2 Drd 3				V, S, DF
+SoftenEarthandStone				Drd 2 Earth 2				V, S, DF
+SolidFog				Sor/Wiz 4				V, S, M
+SongofDiscord				Brd 5				V, S
+SoulBind				Clr 9 Sor/Wiz 9				V, S, F
+SoundBurst				Brd 2 Clr 2				V, S, F/DF
+SpeakwithAnimals				Brd 3 Drd 1 Rgr 1				V, S
+SpeakwithDead				Clr 3				V, S, DF
+SpeakwithPlants				Brd 4 Drd 3 Rgr 2				V, S
+SpectralHand				Sor/Wiz 2				V, S
+SpellImmunity				Clr 4 Protection 4 Strength 4				V, S, DF
+SpellImmunity,Greater				Clr 8				href="/srd/spellLists/clericSpells.htm#eighthLevelClericSpells">Clr 8</a>
+SpellResistance				Clr 5 Magic 5 Protection 5				V, S, DF
+Spellstaff				Drd 6				V, S, F
+SpellTurning				Luck 7 Magic 7 Sor/Wiz 7				V, S, M/DF
+SpiderClimb				Drd 2 Sor/Wiz 2				V, S, M
+SpikeGrowth				Drd 3 Rgr 2				V, S, DF
+SpikeStones				Drd 4 Earth 4				V, S, DF
+SpiritualWeapon				Clr 2 War 2				V, S, DF
+Statue				Sor/Wiz 7				V, S, M
+Status				Clr 2				V, S
+StinkingCloud				Sor/Wiz 3				V, S, M
+StoneShape				Clr 3 Drd 3 Earth 3 Sor/Wiz 4				V, S, M/DF
+Stoneskin				Drd 5 Earth 6 Sor/Wiz 4 Strength 6				V, S, M
+StoneTell				Drd 6				V, S, DF
+StonetoFlesh				Sor/Wiz 6				V, S, M
+StormofVengeance				Drd 9 Clr 9				V, S
+Suggestion				Brd 2 Sor/Wiz 3				V, M
+Suggestion,Mass				Brd 5 Sor/Wiz 6				Medium (100 ft. + 10 ft./level)
+SummonInstrument				Brd 0				V, S
+SummonMonsterI				Brd 1 Clr 1 Sor/Wiz 1				V, S, F/DF
+SummonMonsterII				Brd 2 Clr 2 Sor/Wiz 2				One or more summoned creatures, no two of which can be more than 30 ft. apart
+SummonMonsterIII				Brd 3 Clr 3 Sor/Wiz 3				One or more summoned creatures, no two of which can be more than 30 ft. apart
+SummonMonsterIV				Brd 4 Clr 4 Sor/Wiz 4				One or more summoned creatures, no two of which can be more than 30 ft. apart
+SummonMonsterV				Brd 5 Clr 5 Sor/Wiz 5				One or more summoned creatures, no two of which can be more than 30 ft. apart
+SummonMonsterVI				Brd 6 Clr 6 Sor/Wiz 6				One or more summoned creatures, no two of which can be more than 30 ft. apart
+SummonMonsterVII				Clr 7 Sor/Wiz 7				 href="/srd/spellLists/sorcererWizardSpells.htm#seventhLevelSorcererWizardSpells">Sor/Wiz 7</a>
+SummonMonsterVIII				Clr 8 Sor/Wiz 8				 href="/srd/spellLists/sorcererWizardSpells.htm#eighthLevelSorcererWizardSpells">Sor/Wiz 8</a>
+SummonMonsterIX				Chaos 9 Clr 9 Evil 9 Good 9 Law 9 Sor/Wiz 9				 href="/srd/spellLists/sorcererWizardSpells.htm#ninthLevelSorcererWizardSpells">Sor/Wiz 9</a>
+SummonNature’sAllyI				Drd 1 Rgr 1				V, S, DF
+SummonNature’sAllyII				Drd 2 Rgr 2				One or more creatures, no two of which can be more than 30 ft. apart
+SummonNature’sAllyIII				Drd 3 Rgr 3				One or more creatures, no two of which can be more than 30 ft. apart
+SummonNature’sAllyIV				Animal 4 Drd 4 Rgr 4				One or more creatures, no two of which can be more than 30 ft. apart
+SummonNature’sAllyV				Drd 5				One or more creatures, no two of which can be more than 30 ft. apart
+SummonNature’sAllyVI				Drd 6				One or more creatures, no two of which can be more than 30 ft. apart
+SummonNature’sAllyVII				Drd 7				One or more creatures, no two of which can be more than 30 ft. apart
+SummonNature’sAllyVIII				Animal 8 Drd 8				One or more creatures, no two of which can be more than 30 ft. apart
+SummonNature’sAllyIX				Drd 9				One or more creatures, no two of which can be more than 30 ft. apart
+SummonSwarm				Brd 2 Drd 2 Sor/Wiz 2				V, S, M/DF
+Sunbeam				Drd 7 Sun 7				V, S, DF
+Sunburst				Drd 8 Sor/Wiz 8 Sun 8				V, S, M/DF
+SymbolofDeath				Clr 8 Sor/Wiz 8				V, S, M
+SymbolofFear				Clr 6 Sor/Wiz 6				Will negates
+SymbolofInsanity				Clr 8 Sor/Wiz 8				Will negates
+SymbolofPain				Clr 5 Sor/Wiz 5				 href="/srd/spellLists/sorcererWizardSpells.htm#fifthLevelSorcererWizardSpells">Sor/Wiz 5</a>
+SymbolofPersuasion				Clr 6 Sor/Wiz 6				Will negates
+SymbolofSleep				Clr 5 Sor/Wiz 5				Will negates
+SymbolofStunning				Clr 7 Sor/Wiz 7				Will negates
+SymbolofWeakness				Clr 7 Sor/Wiz 7				 href="/srd/spellLists/sorcererWizardSpells.htm#seventhLevelSorcererWizardSpells">Sor/Wiz 7</a>
+SympatheticVibration				Brd 6				V, S, F
+Sympathy				Drd 9 Sor/Wiz 8				V, S, M
+Telekinesis				Sor/Wiz 5				V, S
+TelekineticSphere				Sor/Wiz 8				V, S, M
+TelepathicBond				Sor/Wiz 5				V, S, M
+Teleport				Sor/Wiz 5 Travel 5				V
+TeleportObject				Sor/Wiz 7				Touch
+Teleport,Greater				Sor/Wiz 7 Travel 7				 href="/srd/spellLists/clericDomains.htm#travelDomain">Travel 7</a>
+TeleportationCircle				Sor/Wiz 9				V, M
+TemporalStasis				Sor/Wiz 8				V, S, M
+TimeStop				Sor/Wiz 9 Trickery 9				V
+TinyHut				Brd 3 Sor/Wiz 3				V, S, M
+Tongues				Brd 2 Clr 4 Sor/Wiz 3				V, M/DF
+TouchofFatigue				Sor/Wiz 0				V, S, M
+TouchofIdiocy				Sor/Wiz 2				V, S
+Transformation				Sor/Wiz 6				V, S, M
+TransmuteMetaltoWood				Drd 7				V, S, DF
+TransmuteMudtoRock				Drd 5 Sor/Wiz 5				V, S, M/DF
+TransmuteRocktoMud				Drd 5 Sor/Wiz 5				V, S, M/DF
+TransportviaPlants				Drd 6				V, S
+TraptheSoul				Sor/Wiz 8				V, S, M, (F); see text
+TreeShape				Drd 2 Rgr 3				V, S, DF
+TreeStride				Drd 5 Rgr 4				V, S, DF
+TrueResurrection				Clr 9				10 minutes
+TrueSeeing				Clr 5 Drd 7 Knowledge 5 Sor/Wiz 6				V, S, M
+TrueStrike				Sor/Wiz 1				V, F
+UndeathtoDeath				Clr 6 Sor/Wiz 6				V, S, M/DF
+UndetectableAlignment				Brd 1 Clr 2 Pal 2				V, S
+Unhallow				Clr 5 Drd 5				V, S, M
+UnholyAura				Clr 8 Evil 8				V, S, F
+UnholyBlight				Evil 4				V, S
+UnseenServant				Brd 1 Sor/Wiz 1				V, S, M
+VampiricTouch				Sor/Wiz 3				V, S
+Veil				Brd 6 Sor/Wiz 6				V, S
+Ventriloquism				Brd 1 Sor/Wiz 1				V, F
+Virtue				Clr 0 Drd 0 Pal 1				V, S, DF
+Vision				Sor/Wiz 7				V, S, M, XP
+WailoftheBanshee				Death 9 Sor/Wiz 9				V
+WallofFire				Drd 5 Fire 4 Sor/Wiz 4				V, S, M/DF
+WallofForce				Sor/Wiz 5				V, S, M
+WallofIce				Sor/Wiz 4				V, S, M
+WallofIron				Sor/Wiz 6				V, S, M
+WallofStone				Clr 5 Drd 6 Earth 5 Sor/Wiz 5				V, S, M/DF
+WallofThorns				Drd 5 Plant 5				V, S
+WarpWood				Drd 2				V, S
+WaterBreathing				Clr 3 Drd 3 Sor/Wiz 3 Water 3				V, S, M/DF
+WaterWalk				Clr 3 Rgr 3				V, S, DF
+WavesofExhaustion				Sor/Wiz 7				V, S
+WavesofFatigue				Sor/Wiz 5				V, S
+Web				Sor/Wiz 2				V, S, M
+Weird				Sor/Wiz 9				Any number of creatures, no two of which can be more than 30 ft. apart
+Whirlwind				Air 8 Drd 8				V, S, DF
+WhisperingWind				Brd 2 Sor/Wiz 2				V, S
+WindWalk				Clr 6 Drd 7				V, S, DF
+WindWall				Air 2 Clr 3 Drd 3 Rgr 2 Sor/Wiz 3				V, S, M/DF
+Wish				Sor/Wiz 9				V, XP
+WoodShape				Drd 2				V, S, DF
+WordofChaos				Chaos 7 Clr 7				V
+WordofRecall				Clr 6 Drd 8				V
+ZoneofSilence				Brd 4				V, S
+ZoneofTruth				Clr 2 Pal 2				V, S, DF

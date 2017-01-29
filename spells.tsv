@@ -1,0 +1,624 @@
+Prep	Cast	Spell	Sch	Sub	Descriptor	Comp	Cast	Range	Target/Effect	Duration	Save	SR	Description	Book	pg	B	C	D	P	R	W	O
+		Acid Fog	con	creation	acid	V,S,M/DF	1std	med	fog spreads in 20-ft radius, 20 ft high	1 rd/lvl	-	n	Fog deals acid damage.	PHB	196						6	
+		Acid Splash	con	creation	acid	V,S	1std	close	one missile of acid	instant	-	n	Orb deals 1d3 acid damage.	PHB	196						0	
+		Aid	ench	compulsion	mind-affecting	V,S,DF	1std	touch	living creature touched	1 min/lvl	-	y (h/l)	+1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).	PHB	196		2					
+		Air Walk	tran		air	V,S,DF	1std	touch	creature (gargantuan or smaller) touched	10 min/lvl	-	y (h/l)	Subject treads on air as if solid (climb at 45-degree angle).	PHB	196		4	4				
+		Alarm	abj			V,S,F/DF	1std	close	20-ft-radius emanation centered on a point in space	2 hrs/lvl (d)	-	n	Wards an area for 2 hours/level.	PHB	197	1				1	1	
+		Align Weapon	tran		varies	V,S,DF	1std	touch	weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)	1 min/lvl	will neg (h/l, obj)	y (h/l, obj)	Weapon becomes good, evil, lawful, or chaotic.	PHB	197		2					
+		Alter Self	tran			V,S	1std	personal	you	10 min/lvl (d)			Assume form of a similar creature.	PHB	197	2					2	
+		Analyze Dweomer	div			V,S,F	1std	close	one obj or creature per caster level	1 rd/lvl (d)	- or will neg; see text	n	Reveals magical aspects of subject.	PHB	197	6					6	
+		Animal Growth	tran			V,S	1std	med	up to one animal (gargantuan or smaller) per two levels, no two of which can be more than 30 ft apart	1 min/lvl	fort neg	y	One animal/two levels doubles in size.	PHB	198			5		4	5	
+		Animal Messenger	ench	compulsion	mind-affecting	V,S,M	1std	close	one tiny animal	1 day/lvl	-; see text	y	Sends a Tiny animal to a specific place.	PHB	198	2		2		1		
+		Animal Shapes	tran			V,S,DF	1std	close	up to one willing creature per level, all within 30 ft of each other	1 hr/lvl (d)	-; see text	y (h/l)	One ally/level polymorphs into chosen animal.	PHB	198			8				
+		Animal Trance	ench	compulsion	mind-affecting, sonic	V,S	1std	close	animals or magical beasts with intelligence 1 or 2	(c)	will neg; see text	y	Fascinates 2d6 HD of animals.	PHB	198	2		2				
+		Animate Dead	nec		evil	V,S,M	1std	touch	one or more corpses touched	instant	-	n	Creates undead skeletons and zombies.	PHB	198		3				4	
+		Animate Objects	tran			V,S	1std	med	one small obj per caster level; see text	1 rd/lvl	-	n	Objects attack your foes.	PHB	199	6	6				6	
+		Animate Plants	tran			V	1std	close	one large plant per three caster levels or all plants within range; see text	1 rd/lvl or 1 hr/lvl; see text	-	n	One or more trees animate and fight for you.	PHB	199			7				
+		Animate Rope	tran			V,S	1std	med	one ropelike obj, length up to 50 ft + 5 ft/level; see text	1 rd/lvl	-	n	Makes a rope move at your command.	PHB	199	1					1	
+		Antilife Shell	abj			V,S,DF	1rd	10 ft	10-ft-radius emanation, centered on you	10 min/lvl (d)	-	y	10-ft. field hedges out living creatures.	PHB	199		6	6				
+		Antimagic Field	abj			V,S,M/DF	1std	10 ft	10-ft-radius emanation, centered on you	10 min/lvl (d)	-	see text	neg magic within 10 ft.	PHB	200		8				6	
+		Antipathy	ench	compulsion	mind-affecting	V,S,M/DF	1hr	close	one location (up to a 10-ft cube/level) or one obj	2 hrs/lvl (d)	will part	y	Object or location affected by spell repels certain creatures.	PHB	200			9			8	
+		Antiplant Shell	abj			V,S,DF	1std	10 ft	10-ft-radius emanation, centered on you	10 min/lvl (d)	-	y	Keeps animated plants at bay.	PHB	200			4				
+		Arcane Eye	div	scrying		V,S,M	10min	unlimited	magical sensor	1 min/lvl (d)	-	n	Invisible floating eye moves 30 ft./round.	PHB	200						4	
+		Arcane Lock	abj			V,S,M	1std	touch	the door, chest, or portal touched, up to 30 sq. ft/level in size	perm	-	n	Magically locks a portal or chest.	PHB	200						2	
+		Arcane Mark	uni			V,S	1std	0 ft	one personal rune or mark, all of which must fit within 1 sq. ft	perm	-	n	Inscribes a personal rune (visible or invisible).	PHB	201						0	
+		Arcane Sight	div			V,S	1std	personal	you	1 min/lvl (d)			Magical auras become visible to you.	PHB	201						3	
+		Arcane Sight, Greater	div			V,S	1std	personal	you	1 min/lvl (d)			As arcane sight, but also reveals magic effects on creatures and objects.	PHB	201						7	
+		Armor of Darkness	abj		darkness	V,S,DF	1std	touch	creature touched	10 min/lvl	will neg (h/l)	y (h/l)	Shroud grants deflection bonus, darkvision, and other effects.	PHB								
+		Astral Projection	nec		ectomancy	V,S,M	30min	touch	you plus one additional willing creature touched per two caster levels	see text	-	y	Projects you and companions onto Astral Plane.	PHB	201		9				9	
+		Atonement	abj			V,S,M,F,DF,XP	1hr	touch	living creature touched	instant	-	y	Removes burden of misdeeds from subject.	PHB	201		5	5				
+		Augury	div			V,S,M,F	1min	personal	you	instant			Learns whether an action will be good or bad.	PHB	202		2					
+		Awaken	tran			V,S,DF,XP	1day	touch	animal or tree touched	instant	will neg	y	Animal or tree gains human intellect.	PHB	202			5				
+		Baleful Polymorph	tran			V,S	1std	close	one creature	perm	fort neg, will part; see text	y	Transforms subject into harmless animal.	PHB	202			5			5	
+		Bane	ench	compulsion	fear, mind-affecting	V,S,DF	1std	50 ft	all enemies within 50 ft	1 min/lvl	will neg	y	Enemies take -1 on attack rolls and saves against fear.	PHB	203		1					
+		Banishment	abj			V,S,F	1std	close	one or more extraplanar creatures, no two of which can be more than 30 ft apart	instant	will neg	y	Banishes 2 HD/level of extraplanar creatures.	PHB	203		6				7	
+		Barkskin	tran			V,S,DF	1std	touch	living creature touched	10 min/lvl	-	y (h/l)	Grants +2 (or higher) enhancement to natural armor.	PHB	203			2		2		
+		Bear's Endurance	tran			V,S,DF	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y	Subject gains +4 to Con for 1 min./level.	PHB	203		2	2		2	2	
+		Bear's Endurance, Mass	tran			V,S,DF	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 min/lvl	will neg (h/l)	y	As bear's endurance, affects one subject/ level.	PHB	203		6	6			6	
+		Bestow Curse	nec			V,S	1std	touch	creature touched	perm	will neg	y	-6 to an ability score; -4 on attack rolls, saves, and checks; or 50% chance of losing each action.	PHB	203		3				4	
+		Bigby's Clenched Fist	evo		force	V,S,F/DF	1std	med	10-ft hand	1 rd/lvl (d)	-	y	Large hand provides cover, pushes, or attacks your foes.	PHB	203						8	
+		Bigby's Crushing Hand	evo		force	V,S,M,F/DF	1std	med	10-ft hand	1 rd/lvl (d)	-	y	Large hand provides cover, pushes, or crushes your foes.	PHB	203						9	
+		Bigby's Forceful Hand	evo		force	V,S,F	1std	med	10-ft hand	1 rd/lvl (d)	-	y	Hand pushes creatures away.	PHB	204						6	
+		Bigby's Grasping Hand	evo		force	V,S,F/DF	1std	med	10-ft hand	1 rd/lvl (d)	-	y	Large hand provides cover, pushes, or grapples.	PHB	204						7	
+		Bigby's Interposing Hand	evo		force	V,S,F	1std	med	10-ft hand	1 rd/lvl (d)	-	y	Hand provides cover against one opponent.	PHB	204						5	
+		Binding	ench	compulsion	mind-affecting	V,S,M	1min	close	one living creature	see text (d)	will neg; see text	y	Utilizes an array of techniques to imprison a creature.	PHB	204						8	
+		Black Tentacles	con	creation		V,S,M	1std	med	20-ft-radius spread	1 rd/lvl (d)	-	n	Tentacles grapple all within 15 ft. spread.	PHB	228						4	
+		Blacklight	evo		darkness	V,S,M	1std	close	a 20-ft-radius emanation centered on a creature, obj or point in space.	1 rd/lvl (d)	will neg or none (obj)	y or no (obj)	Creates a 20-ft. radius of supernatural darkness you can see through.	PHB							3	
+		Blade Barrier	evo		force	V,S	1std	med	wall of whirling blades up to 20 ft long/ level, or a ringed wall of whirling blades with a radius of up to 5 ft per two levels; either form 20 ft high	1 min/lvl (d)	ref ½ or ref neg; see text	y	Wall of blades deals 1d6/level damage.	PHB	205		6					
+		Blasphemy	evo		sonic, evil	V	1std	40 ft	nonevil creatures in a 40-ft-radius spread centered on you	instant	- or will neg; see text	y	Kills, paralyzes, weakens, or dazes nonevil subjects.	PHB	205		7					
+		Bless	ench	compulsion	mind-affecting	V,S,DF	1std	50 ft	the caster and all allies within a 50-ft burst, centered on the caster	1 min/lvl	-	y (h/l)	Allies gain +1 on attack rolls and saves against fear.	PHB	205		1		1			
+		Bless Water	tran		positive, good	V,S,M	1min	touch	flask of water touched	instant	will neg (obj)	y (obj)	Makes holy water.	PHB	205		1		1			
+		Bless Weapon	tran			V,S	1std	touch	weapon touched	1 min/lvl	-	n	Weapon strikes true against evil foes.	PHB	205				1			
+		Blight	nec			V,S,DF	1std	touch	one plant	instant	fort ½; see text	y	Withers one plant or deals 1d6/level damage to plant creature.	PHB	206			4			5	
+		Blindness/Deafness	nec			V	1std	med	one living creature	perm (d)	fort neg	y	Makes subject blind or deaf.	PHB	206	2	3				2	
+		Blink	tran			V,S	1std	personal	you	1 rd/lvl (d)			You randomly vanish and reappear for 1 round/level.	PHB	206	3					3	
+		Blur	ill	glamer		V	1std	touch	creature touched	1 min/lvl (d)	will neg (h/l)	y (h/l)	Attacks miss subject 20% of the time.	PHB	206	2					2	
+		Bolt of Glory	evo		positive, good	V,S,DF	1std	close	ray	instant	-	y	Positive energy ray deals extra damage to evil outsiders and undead.	PHB			6					
+		Bolts of Bedevilment	ench		mind-affecting	V,S	1std	med	ray	1 rd/lvl	will neg	y	One ray/round, dazes 1d3 rounds.	PHB		5						
+		Brain Spider	div		mind-affecting	V,S,M,DF	1rd	long	up to eight living creatures within range	1 min/lvl	will neg	y	Listen to thoughts of up to eight other creatures.	PHB			7					
+		Break Enchantment	abj			V,S	1min	close	up to one creature per level, all within 30 ft of each other	instant	see text	n	Frees subjects from enchantments, alterations, curses, and petrification.	PHB	207	4	5		4		5	
+		Bull's Strength	tran			V,S,M/DF	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y (h/l)	Subject gains +4 to Str for 1 min./level.	PHB	207		2	2	2		2	
+		Bull's Strength, Mass	tran			V,S,M/DF	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 min/lvl	will neg (h/l)	y (h/l)	As bull's strength, affects one subject/level.	PHB	207		6	6			6	
+		Burning Hands	evo		fire	V,S	1std	15 ft	cone-shaped burst	instant	ref ½	y	1d4/level fire damage (max 5d4).	PHB	207						1	
+		Call Lightning	evo		electricity	V,S	1rd	med	one or more 30-ft-long vertical lines of lightning	1 min/lvl	ref ½	y	Calls down lightning bolts (3d6 per bolt) from sky.	PHB	207			3				
+		Call Lightning Storm	evo		electricity	V,S	1rd	long	one or more 30-ft-long vertical lines of lightning	1 min/lvl	ref ½	y	As call lightning, but 5d6 damage per bolt.	PHB	207			5				
+		Calm Animals	ench	compulsion	mind-affecting	V,S	1std	close	animals within 30 ft of each other	1 min/lvl	will neg; see text	y	Calms (2d4 + level) HD of animals.	PHB	207			1		1		
+		Calm Emotions	ench	compulsion	mind-affecting	V,S,DF	1std	med	creatures in a 20-ft-radius spread	(c), ≤ 1 rd/lvl (d)	will neg	y	Calms creatures, negating emotion effects.	PHB	207	2	2					
+		Cat's Grace	tran			V,S,M	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y	Subject gains +4 to Dex for 1 min./level.	PHB	208	2		2		2	2	
+		Cat's Grace, Mass	tran			V,S,M	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 min/lvl	will neg (h/l)	y	As cat's grace, affects one subject/level.	PHB	208	6		6			6	
+		Cause Fear	nec		fear, mind-affecting	V,S	1std	close	one living creature with 5 or fewer hd	1d4 rds or 1 rd; see text	will part	y	One creature of 5 HD or less flees for 1d4 rounds.	PHB	208	1	1				1	
+		Chain Lightning	evo		electricity	V,S,F	1std	long	one primary target, plus one secondary target/level (each of which must be within 30 ft of the primary target)	instant	ref ½	y	1d6/level damage; 1 secondary bolt/level each deals half damage.	PHB	208						6	
+		Changestaff	tran			V,S,F	1rd	touch	your touched staff	1 hr/lvl (d)	-	n	Your staff becomes a treant on command.	PHB	208			7				
+		Chaos Hammer	evo		chaotic	V,S	1std	med	20-ft-radius burst	instant (1d6 rds); see text	will part; see text	y	Damages and staggers lawful creatures.	PHB	208							
+		Charm Animal	ench	charm	mind-affecting	V,S	1std	close	one animal	1 hr/lvl	will neg	y	Makes one animal your friend.	PHB	208			1		1		
+		Charm Monster	ench	charm	mind-affecting	V,S	1std	close	one living creature	1 day/lvl	will neg	y	Makes monster believe it is your ally.	PHB	209	3					4	
+		Charm Monster, Mass	ench	charm	mind-affecting	V	1std	close	one or more creatures, no two of which can be more than 30 ft apart	1 day/lvl	will neg	y	As charm monster, but all within 30 ft.	PHB	209	6					8	
+		Charm Person	ench	charm	mind-affecting	V,S	1std	close	one humanoid creature	1 hr/lvl	will neg	y	Makes one person your friend.	PHB	209	1					1	
+		Chill Metal	tran		cold	V,S,DF	1std	close	metal equipment of one creature per two levels, no two of which can be more than 30 ft apart; or 25 lb. of metal/level, none of which can be more than 30 ft away from any of the rest	7 rds	will neg (obj)	y (obj)	Cold metal damages those who touch it.	PHB	209			2				
+		Chill Touch	nec			V,S	1std	touch	creature or creatures touched (up to one/level)	instant	fort part or will neg; see text	y	One touch/level deals 1d6 damage and possibly 1 Str damage.	PHB	209						1	
+		Circle of Death	nec		death	V,S,M	1std	med	several living creatures within a 40-ft-radius burst	instant	fort neg	y	Kills 1d4/level HD of creatures.	PHB	209						6	
+		Clairaudience/Clairvoyance	div	scrying		V,S,F/DF	10min	long	magical sensor	1 min/lvl (d)	-	n	Hear or see at a distance for 1 min./level.	PHB	209	3					3	
+		Cloak of Chaos	abj		chaotic	V,S,F	1std	20 ft	one creature/level in a 20-ft-radius burst centered on you	1 rd/lvl (d)	see text	y (h/l)	+4 to AC, +4 resistance, and SR 25 against lawful spells.	PHB	210		8					
+		Clone	nec			V,S,M,F	10min	0 ft	one clone	instant	-	n	Duplicate awakens when original dies.	PHB	210						8	
+		Cloudkill	con	creation		V,S	1std	med	cloud spreads in 20-ft radius, 20 ft high	1 min/lvl	fort part; see text	n	Kills 3 HD or less; 46 HD save or die, 6+ HD take Con damage.	PHB	210						5	
+		Color Spray	ill	pattern	mind-affecting	V,S,M	1std	15 ft	cone-shaped burst	instant; see text	will neg	y	Knocks unconscious, blinds, and/or stuns 1d6 weak creatures.	PHB	210						1	
+		Command	ench	compulsion	mind-affecting, language-dependent	V	1std	close	one living creature	1 rd	will neg	y	One subject obeys selected command for 1 round.	PHB	211		1					
+		Command Plants	tran			V	1std	close	up to 2 hd/level of plant creatures, no two of which can be more than 30 ft apart	1 day/lvl	will neg	y	Sway the actions of one or more plant creatures.	PHB	211			4		3		
+		Command Undead	nec			V,S,M	1std	close	one undead creature	1 day/lvl	will neg; see text	y	Undead creature obeys your commands.	PHB	211						2	
+		Command, Greater	ench	compulsion	mind-affecting, language-dependent	V	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 rd/lvl	will neg	y	As command, but affects one subject/level.	PHB	211		5					
+		Commune	div			V,S,M,DF,XP	10min	personal	you	1 rd/lvl			Deity answers one yes-or-no question/level.	PHB	211		5					
+		Commune with Nature	div			V,S	10min	personal	the ground or terrain, plants, minerals, bodies of water, people, general animal population, presence of woodland creatures, presence of powerful unnatural creatures, or even the general state of the natural setting.	instant			Learn about terrain for 1 mile/level.	PHB	211			5		4		
+		Comprehend Languages	div			V,S,M/DF	1std	personal	you	10 min/lvl			You understand all spoken and written languages.	PHB	212	1	1				1	
+		Cone of Cold	evo		cold	V,S,M/DF	1std	60 ft	cone-shaped burst	instant	ref ½	y	1d6/level cold damage.	PHB	212						5	
+		Confusion	ench	compulsion	mind-affecting	V,S,M/DF	1std	med	all creatures in a 15-ft radius burst	1 rd/lvl	will neg	y	Subjects behave oddly for 1 round/level.	PHB	212	3					4	
+		Confusion, Lesser	ench	compulsion	mind-affecting	V,S,DF	1std	close	one living creature	1 rd	will neg	y	One creature is confused for 1 round.	PHB	212	1						
+		Consecrate	evo		positive, good	V,S,M,DF	1std	close	20-ft-radius emanation	2 hrs/lvl	-	n	Fills area with positive energy, making undead weaker.	PHB	212		2					
+		Contact Other Plane	div			V	10min	personal	you	(c)			Lets you ask question of extraplanar entity.	PHB	212						5	
+		Contagion	nec		evil	V,S	1std	touch	living creature touched	instant	fort neg	y	Infects subject with chosen disease.	PHB	213		3	3			4	
+		Contingency	evo			V,S,M,F	10min;seetext	personal	you	1 day/lvl or until dis (d)			Sets trigger condition for another spell.	PHB	213						6	
+		Continual Flame	evo		light	V,S,M	1std	touch	magical, heatless flame	perm	-	n	Makes a permanent, heatless torch.	PHB	213		3				2	
+		Control Plants	tran			V,S,DF	1std	close	up to 2 hd/level of plant creatures, no two of which can be more than 30 ft apart	1 min/lvl	will neg	n	Control actions of one or more plant creatures.	PHB	213			8				
+		Control Undead	nec			V,S,M	1std	close	up to 2 hd/level of undead creatures, no two of which can be more than 30 ft apart	1 min/lvl	will neg	y	Undead don't attack you while under your command.	PHB	214						7	
+		Control Water	tran		water	V,S,M/DF	1std	long	water in a volume of 10 ft/level by 10 ft/level by 2 ft/level (s)	10 min/lvl (d)	-; see text	n	Raises or lowers bodies of water.	PHB	214		4	4			6	
+		Control Weather	tran			V,S	10min;seetext	2 mi	2-mile-radius circle, centered on you; see text	4d12 hrs; see text	-	n	Changes weather in local area.	PHB	214		7	7			7	
+		Control Winds	tran		air	V,S	1std	40 ft/level	40 ft/level radius cylinder 40 ft high	10 min/lvl	fort neg	n	Change wind direction and speed.	PHB	214			5				
+		Corrupt Weapon	tran			V,S	1std	touch	weapon touched	1 min/lvl	-	n	Weapon strikes true against good foes.	PHB								
+		Create Food and Water	con	creation		V,S	10min	close	food and water to sustain three humans or one horse/level for 24 hours	1 day; see text	-	n	Feeds three humans (or one horse)/level.	PHB	214		3					
+		Create Greater Undead	nec		evil	V,S,M	1hr	close	one corpse	instant	-	n	Create shadows, wraiths, spectres, or devourers.	PHB	215		8				8	
+		Create Undead	nec		evil	V,S,M	1hr	close	one corpse	instant	-	n	Creates ghouls, ghasts, mummies, or mohrgs.	PHB	215		6				6	
+		Create Water	con	creation	water	V,S	1std	close	up to 2 gallons of water/level	instant	-	n	Creates 2 gallons/level of pure water	PHB	215		0	0	1		sorc/wiz	
+		Creeping Doom	con	summoning		V,S	1rd	close/ 100 ft; see text	one swarm of centipedes per two levels	1 min/lvl	-	n	Swarms of centipedes attack at your command.	PHB	215			7				
+		Crown Of Glory	evo			V,S,M,DF	1rd	120 ft	120-ft-radius emanation, centered on you	1 min/lvl	will neg	y	You gain +4 Charisma and enthrall those who hear you.	PHB								
+		Crushing Despair	ench	compulsion	mind-affecting	V,S,M	1std	30 ft	cone-shaped burst	1 min/lvl	will neg	y	Subjects take -2 on attack rolls, damage rolls, saves, and checks.	PHB	215	3					4	
+		Cure Critical Wounds	con	healing	positive	V,S	1std	touch	creature touched	instant	will ½ (h/l); see text	y (h/l); see text	Cures 4d8 damage +1/level (max +20).	PHB	215	4	4	5				
+		Cure Critical Wounds, Mass	con	healing	positive	V,S	1std	close	one creature/level, no two of which can be more than 30 ft apart	instant	will ½ (h/l) or will ½; see text	y (h/l) or y; see text	Cures 4d8 damage +1/level for many creatures.	PHB	215		8	9				
+		Cure Light Wounds	con	healing	positive	V,S	1std	touch	creature touched	instant	will ½ (h/l); see text	y (h/l); see text	Cures 1d8 damage +1/level (max +5).	PHB	215	1	1	1	1	2		
+		Cure Light Wounds, Mass	con	healing	positive	V,S	1std	close	one creature/level, no two of which can be more than 30 ft apart	instant	will ½ (h/l) or will ½; see text	y (h/l) or y; see text	Cures 1d8 damage +1/level for many creatures.	PHB	216	5	5	6				
+		Cure Minor Wounds	con	healing	positive	V,S	1std	touch	creature touched	instant	will ½(h/l); see text	y (h/l); see text	Cures 1 point of damage	PHB	216		0	0				
+		Cure Moderate Wounds	con	healing	positive	V,S	1std	touch	creature touched	instant	will ½ (h/l); see text	y (h/l); see text	Cures 2d8 damage +1/level (max +10).	PHB	216	2	2	3	3	3		
+		Cure Moderate Wounds, Mass	con	healing	positive	V,S	1std	close	one creature/level, no two of which can be more than 30 ft apart	instant	will ½ (h/l) or will ½; see text	y (h/l) or y; see text	Cures 2d8 damage +1/level for many creatures.	PHB	216	6	6	7				
+		Cure Serious Wounds	con	healing	positive	V,S	1std	touch	creature touched	instant	will ½ (h/l); see text	y (h/l); see text	Cures 3d8 damage +1/level (max +15).	PHB	216	3	3	4	4	4		
+		Cure Serious Wounds, Mass	con	healing	positive	V,S	1std	close	one creature/level, no two of which can be more than 30 ft apart	instant	will ½ (h/l) or will ½; see text	y (h/l) or y; see text	Cures 3d8 damage +1/level for many creatures.	PHB	216		7	8				
+		Curse Water	nec		evil	V,S,M	1min	touch	flask of water touched	instant	will neg (obj)	y (obj)	Makes unholy water.	PHB	216		1					
+		Dancing Lights	evo		light	V,S	1std	med	up to four lights, all within a 10-ft-radius area	1 min (d)	-	n	Creates torches or other lights.	PHB	216	0					0	
+		Darkness	evo		darkness	V,M/DF	1std	touch	obj touched	10 min/lvl (d)	-	n	20-ft. radius of supernatural shadow.	PHB	216	2	2				2	
+		Darkvision	tran			V,S,M	1std	touch	creature touched	1 hr/lvl	-	y (h/l)	See 60 ft. in total darkness.	PHB	216					3	2	
+		Daylight	evo		light	V,S	1std	touch	obj touched	10 min/lvl (d)	-	n	60-ft. radius of bright light.	PHB	216	3	3	3	3		3	
+		Daze	ench	compulsion	mind-affecting	V,S,M	1std	close	one humanoid creature of 4 hd or less	1 rd	will neg	y	Humanoid creature of 4 HD or less loses next action.	PHB	217	0					0	
+		Daze Monster	ench	compulsion	mind-affecting	V,S,M	1std	med	one living creature of 6 hd or less	1 rd	will neg	y	Living creature of 6 HD or less loses next action.	PHB	217	2					2	
+		Death Knell	nec		death, ectomancy, evil	V,S	1std	touch	living creature touched	instant/10 min per hd of subject; see text	will neg	y	Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 level.	PHB	217		2					
+		Death Ward	nec		ectomancy	V,S,DF	1std	touch	living creature touched	1 min/lvl	will neg (h/l)	y (h/l)	Grants immunity to death spells and negative energy effects.	PHB	217		4	5	4			
+		Deathwatch	nec		evil	V,S	1std	30 ft	cone-shaped emanation	10 min/lvl	-	n	Reveals how near death subjects within 30 ft. are.	PHB	217		1					
+		Deep Slumber	ench	compulsion	mind-affecting	V,S,M	1rd	close	one or more living creatures within a 10-ft-radius burst	1 min/lvl	will neg	y	Puts 10 HD of creatures to sleep.	PHB	217	3					3	
+		Deeper Darkness	evo		darkness	V,M/DF	1std	touch	obj touched	1 day/lvl (d)	-	n	Object sheds supernatural shadow in 60-ft. radius.	PHB	217		3					
+		Delay Poison	con	healing		V,S,DF	1std	touch	creature touched	1 hr/lvl	fort neg (h/l)	y (h/l)	Stops poison from harming subject for 1 hour/ level.	PHB	217	2	2	2	2	1		
+		Delayed Blast Fireball	evo		fire	V,S,M	1std	long	20-ft-radius spread	5 rds or less; see text	ref ½	y	1d6/level fire damage; you can postpone blast for 5 rounds.	PHB	217						7	
+		Demand	ench	compulsion	mind-affecting	V,S,M/DF	10min	see text	one creature	1 rd; see text	will part	y	As sending, plus you can send suggestion.	PHB	217						8	
+		Desecrate	evo		negative, evil	V,S,M,DF	1std	close	20-ft-radius emanation	2 hrs/lvl	-	y	Fills area with negative energy, making undead stronger.	PHB	218		2					
+		Destruction	nec		death	V,S,F	1std	close	one creature	instant	fort part	y	Kills subject and destroys remains.	PHB	218		7					
+		Detect Animals or Plants	div			V,S	1std	long	cone-shaped emanation	(c), ≤ 10 min/lvl (d)	-	n	Detects kinds of animals or plants.	PHB	218			1		1		
+		Detect Chaos	div			V,S,DF	1std	60 ft	cone-shaped emanation	(c), ≤ 10 min/lvl (d)	-	n	Reveals creatures, spells, or objects of selected alignment.	PHB	218		1					
+		Detect Evil	div			V,S,DF	1std	60 ft	cone-shaped emanation	(c), ≤ 10 min/lvl (d)	-	n	Reveals creatures, spells, or objects of selected alignment.	PHB	218		1					
+		Detect Good	div			V,S,DF	1std	60 ft	cone-shaped emanation	(c), ≤ 10 min/lvl (d)	-	n	Reveals creatures, spells, or objects of selected alignment.	PHB	219		1					
+		Detect Law	div			V,S,DF	1std	60 ft	cone-shaped emanation	(c), ≤ 10 min/lvl (d)	-	n	Reveals creatures, spells, or objects of selected alignment.	PHB	219		1					
+		Detect Magic	div			V,S	1std	60 ft	cone-shaped emanation	(c), ≤ 1 min/lvl (d)	-	n	Detects spells and magic items within 60 ft	PHB	219	0	0	0			0	
+		Detect Poison	div			V,S	1std	close	one creature, one obj, or a 5-ft cube	instant	-	n	Detects poison in one creature or object.	PHB	219		0	0	1	1	0	
+		Detect Scrying	div			V,S,M	1std	40 ft	40-ft-radius emanation centered on you	1 day	-	n	Alerts you of magical eavesdropping.	PHB	219	4					4	
+		Detect Secret Doors	div			V,S	1std	60 ft	cone-shaped emanation	(c), ≤ 1 min/lvl (d)	-	n	Reveals hidden doors within 60 ft.	PHB	220	1					1	
+		Detect Snares and Pits	div			V,S	1std	60 ft	cone-shaped emanation	(c), ≤ 10 min/lvl (d)	-	n	Reveals natural or primitive traps.	PHB	220			1		1		
+		Detect Thoughts	div		mind-affecting	V,S,F/DF	1std	60 ft	cone-shaped emanation	(c), ≤ 1 min/lvl (d)	will neg; see text	n	Allows listening to surface thoughts.	PHB	220	2					2	
+		Detect Undead	div			V,S,M/DF	1std	60 ft	cone-shaped emanation	(c), ≤ 1 min/lvl (d)	-	n	Reveals undead within 60 ft.	PHB	220		1		1		1	
+		Dictum	evo		sonic, lawful	V	1std	40 ft	nonlawful creatures in a 40-ft-radius spread centered on you	instant	- or will neg; see text	y	Kills, paralyzes, slows, or deafens nonlawful subjects.	PHB	220		7					
+		Dimension Door	con	teleportation		V	1std	long	you and touched objs or other touched willing creatures	instant	- & will neg (obj)	n and y (obj)	Teleports you short distance.	PHB	221	4					4	
+		Dimensional Anchor	abj			V,S	1std	med	ray	1 min/lvl	-	y (obj)	Bars extradimensional movement.	PHB	221		4				4	
+		Dimensional Lock	abj			V,S	1std	med	20-ft-radius emanation centered on a point in space	1 day/lvl	-	y	Teleportation and interplanar travel blocked for one day/level.	PHB	221		8				8	
+		Diminish Plants	tran			V,S,DF	1std	see text	see text	instant	-	n	Reduces size or blights growth of normal plants.	PHB	221			3		3		
+		Discern Lies	div			V,S,DF	1std	close	one creature/level, no two of which can be more than 30 ft apart	(c), ≤ 1 rd/lvl	will neg	n	Reveals deliberate falsehoods.	PHB	221		4		3			
+		Discern Location	div			V,S,DF	10min	unlimited	one creature or obj	instant	-	n	Reveals exact location of creature or object.	PHB	222		8				8	
+		Disguise Self	ill	glamer		V,S	1std	personal	you	10 min/lvl (d)			Changes your appearance.	PHB	222	1					1	
+		Disintegrate	tran			V,S,M/DF	1std	med	ray	instant	fort part (obj)	y	Makes one creature or object vanish.	PHB	222						6	
+		Dismissal	abj			V,S,DF	1std	close	one extraplanar creature	instant	will neg; see text	y	Forces a creature to return to native plane.	PHB	222		4				5	
+		Dispel Chaos	abj		lawful	V,S,DF	1std	touch	you and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or obj	1 rd/lvl or until dis, whichever comes first	see text	see text	+4 bonus against attacks by chaotic creatures.	PHB	222		5		4			
+		Dispel Evil	abj		good	V,S,DF	1std	touch	you and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or obj	1 rd/lvl or until dis, whichever comes first	see text	see text	+4 bonus against attacks by evil creatures.	PHB	222		5		4			
+		Dispel Good	abj		evil	V,S,DF	1std	touch	you and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or obj	1 rd/lvl or until dis, whichever comes first	see text	see text	+4 bonus against attacks by good creatures.	PHB	222		5					
+		Dispel Law	abj		chaotic	V,S,DF	1std	touch	you and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or obj	1 rd/lvl or until dis, whichever comes first	see text	see text	+4 bonus against attacks by lawful creatures.	PHB	223		5					
+		Dispel Magic	abj			V,S	1std	med	one spellcaster, creature, or obj; or 20-ft-radius burst	instant	-	n	Cancels magical spells and effects.	PHB	223	3	3	4	3		3	
+		Dispel Magic, Greater	abj			V,S	1std	med	one spellcaster, creature, or obj; or 20-ft-radius burst	instant	-	n	As dispel magic, but +20 on check.	PHB	223	5	6	6			6	
+		Displacement	ill	glamer		V,M	1std	touch	creature touched	1 rd/lvl (d)	will neg (h/l)	y (h/l)	Attacks miss subject 50%.	PHB	223	3					3	
+		Disrupt Undead	nec		positive	V,S	1std	close	ray	instant	-	y	Deals 1d6 damage to one undead.	PHB	223						0	
+		Disrupting Weapon	tran			V,S	1std	touch	one melee weapon	1 rd/lvl	will neg (h/l, obj); see text	y (h/l, obj)	Melee weapon destroys undead.	PHB	223		5					
+		Divination	div			V,S,M	10min	personal	you	instant			Provides useful advice for specific proposed actions.	PHB	224		4					
+		Divine Favor	evo			V,S,DF	1std	personal	you	1 min			You gain +1 per three levels on attack and damage rolls.	PHB	224		1		1			
+		Divine Power	evo			V,S,DF	1std	personal	you	1 rd/lvl			You gain attack bonus, +6 to Str, and 1 hp/level.	PHB	224		4					
+		Dominate Animal	ench	compulsion	mind-affecting	V,S	1rd	close	one animal	1 rd/lvl	will neg	y	Subject animal obeys silent mental commands.	PHB	224			3				
+		Dominate Monster	ench	compulsion	mind-affecting	V,S	1rd	close	one creature	1 day/lvl	will neg	y	As dominate person, but any creature.	PHB	224						9	
+		Dominate Person	ench	compulsion	mind-affecting	V,S	1rd	close	one humanoid	1 day/lvl	will neg	y	Controls humanoid telepathically.	PHB	224	4					5	
+		Doom	nec		fear, mind-affecting	V,S,DF	1std	med	one living creature	1 min/lvl	will neg	y	One subject takes -2 on attack rolls, damage rolls, saves, and checks.	PHB	225		1					
+		Drawmij's Instant Summons	con	summoning		V,S,M	1std	see text	one obj weighing 10 lb. or less whose longest dimension is 6 ft or less	perm until dis	-	n	Prepared object appears in your hand.	PHB	225						7	
+		Dream	ill	phantasm	mind-affecting	V,S	1min	unlimited	one living creature touched	see text	-	y	Sends message to anyone sleeping.	PHB	225	5					5	
+		Dweomer of Transference	evo			V,S	1min	close	one willing psionic creature	1 rd/lvl	will neg (h/l)	y (h/l)	Convert spellcasting into psionic power points.	PHB			4				4	
+		Eagle's Splendor	tran			V,S,M/DF	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y	Subject gains +4 to Cha for 1 min./level.	PHB	225	2	2		2		2	
+		Eagle's Splendor, Mass	tran			V,S,M/DF	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 min/lvl	will neg (h/l)	y	As eagle's splendor, affects one subject/level.	PHB	225	6	6				6	
+		Earthquake	evo		earth	V,S,DF	1std	long	80-ft-radius spread (s)	1 rd	see text	n	Intense tremor shakes 5-ft./level radius.	PHB	225		8	8				
+		Elemental Swarm	con	summoning		V,S	10min	med	two or more summoned creatures, no two of which can be more than 30 ft apart	10 min/lvl (d)	-	n	Summons multiple elementals.	PHB	226			9				
+		Endure Elements	abj			V,S	1std	touch	creature touched	1 day	will neg (h/l)	y (h/l)	Exist comfortably in hot or cold environments.	PHB	226		1	1	1	1	1	
+		Energy Drain	nec		negative	V,S	1std	close	ray of negative energy	instant	fort part; see text	y	Subject gains 2d4 negative levels.	PHB	226		9				9	
+		Enervation	nec		negative	V,S	1std	close	ray of negative energy	instant	-	y	Subject gains 1d4 negative levels.	PHB	226						4	
+		Enlarge Person	tran			V,S,M	1rd	close	one humanoid creature	1 min/lvl (d)	fort neg	y	Humanoid creature doubles in size.	PHB	226						1	
+		Enlarge Person, Mass	tran			V,S,M	1rd	close	one humanoid creature/level, no two of which can be more than 30 ft apart	1 min/lvl (d)	fort neg	y	Enlarges several creatures.	PHB	227						4	
+		Entangle	tran			V,S,DF	1std	long	plants in a 40-ft-radius spread	1 min/lvl (d)	ref part; see text	n	Plants entangle everyone in 40-ft.-radius.	PHB	227			1		1		
+		Enthrall	ench	charm	sonic, mind-affecting, language-dependent	V,S	1rd	med	any number of creatures	1 hr or less	will neg; see text	y	Captivates all within 100 ft. + 10 ft./level.	PHB	227	2	2					
+		Entropic Shield	abj			V,S	1std	personal	you	1 min/lvl (d)			Ranged attacks against you have 20% miss chance.	PHB	227		1					
+		Erase	tran			V,S	1std	close	one scroll or two pages	instant	see text	n	Mundane or magical writing vanishes.	PHB	227	1					1	
+		Ethereal Jaunt	tran			V,S	1std	personal	you	1 rd/lvl (d)			You become ethereal for 1 round/level.	PHB	227		7				7	
+		Etherealness	tran			V,S	1std	touch; see text	you and one other touched creature per three levels	1 min/lvl (d)		y	Travel to Ethereal Plane with companions.	PHB	228		9				9	
+		Evard’s Black Tentacles	con	creation		V,S,M	1std	med	20-ft-radius spread	1 rd/lvl (d)	-	n	Conjures a field of 10' tentacles which if grapple do 1d6+4 dmg	PHB	228						4	
+		Expeditious Retreat	tran			V,S	1std	personal	you	1 min/lvl (d)			Your speed increases by 30 ft.	PHB	228	1					1	
+		Explosive Runes	abj		force	V,S	1std	touch	one touched obj weighing no more than 10 lb.	perm until dis (d)	see text	y	Deals 6d6 damage when read.	PHB	228						3	
+		Eyebite	nec		evil	V,S	1std	close	one living creature	1 rd/3 lvls; see text	fort neg	y	Target becomes panicked, sickened, and comatose.	PHB	228	6					6	
+		Fabricate	tran			V,S,M	seetext	close	up to 10 cu. ft/level; see text	instant	-	n	Transforms raw materials into finished items.	PHB	229						5	
+		Faerie Fire	evo		light	V,S,DF	1std	long	creatures and objs within a 5-ft-radius burst	1 min/lvl (d)	-	y	Outlines subjects with light, canceling blur, concealment, and the like.	PHB	229			1				
+		False Life	nec			V,S,M	1std	personal	you	1 hr/lvl or until dis; see text			Gain 1d10 temporary hp +1/level (max +10).	PHB	229						2	
+		False Vision	ill	glamer		V,S,M	1std	touch	40-ft-radius emanation	1 hr/lvl (d)	-	n	Fools scrying with an illusion.	PHB	229	5					5	
+		Fear	nec		fear, mind-affecting	V,S,M	1std	30 ft	cone-shaped burst	1 rd/lvl or 1 rd; see text	will part	y	Subjects within cone flee for 1 round/level.	PHB	229	3					4	
+		Feather Fall	tran			V	1freeaction	close	one medium or smaller freefalling obj or creature/level, no two of which may be more than 20 ft apart	until landing or 1 rd/lvl	will neg (h/l) or will neg (obj)	y (obj)	Objects or creatures fall slowly.	PHB	229	1					1	
+		Feeblemind	ench	compulsion	mind-affecting	V,S,M	1std	med	one creature	instant	will neg; see text	y	Subjects Int and Cha drop to 1.	PHB	229						5	
+		Find the Path	div			V,S,F	3rds	personal or touch	you or creature touched	10 min/lvl	- or will neg (h/l)	n or y (h/l)	Shows most direct way to a location.	PHB	230	6	6	6				
+		Find Traps	div			V,S	1std	personal	you	1 min/lvl			Notice traps as a rogue does.	PHB	230		2					
+		Finger of Death	nec		death	V,S	1std	close	one living creature	instant	fort part	y	Kills one subject.	PHB	230			8			7	
+		Fire Seeds	con	creation	fire	V,S,M	1std	touch	up to four touched acorns or up to eight touched holly berries	10 min/lvl or until used	- or ref ½; see text	n	Acorns and berries become grenades and bombs.	PHB	230			6				
+		Fire Shield	evo		cold, fire	V,S,M/DF	1std	personal	you	1 rd/lvl (d)			Creatures attacking you take fire damage; you're protected from heat or cold.	PHB	230						4	
+		Fire Storm	evo		fire	V,S	1rd	med	two 10-ft cubes per level (s)	instant	ref ½	y	Deals 1d6/level fire damage.	PHB	231		8	7				
+		Fire Trap	abj		fire	V,S,M	10min	touch	obj touched	perm until dis (d)	ref ½; see text	y	Opened object deals 1d4 +1/level damage.	PHB	231			2			4	
+		Fireball	evo		fire	V,S,M	1std	long	20-ft-radius spread	instant	ref ½	y	1d6 damage per level, 20-ft. radius.	PHB	231						3	
+		Flame Arrow	tran		fire	V,S,M	1std	close	fifty projectiles, all of which must be in contact with each other at the time of casting	10 min/lvl	-	n	Arrows deal +1d6 fire damage.	PHB	231						3	
+		Flame Blade	evo		fire	V,S,DF	1std	0 ft	sword-like beam	1 min/lvl (d)	-	y	Touch attack deals 1d8 +1/two levels damage.	PHB	231			2				
+		Flame Strike	evo		fire	V,S,DF	1std	med	cylinder (10-ft radius, 40 ft high)	instant	ref ½	y	Smite foes with divine fire (1d6/level damage).	PHB	231		5	4				
+		Flaming Sphere	evo		fire	V,S,M/DF	1std	med	5-ft-diameter sphere	1 rd/lvl	ref neg	y	Creates rolling ball of fire, 2d6 damage, lasts 1 round/level.	PHB	232			2			2	
+		Flare	evo		light	V	1std	close	burst of light	instant	fort neg	y	Dazzles one creature (1 on attack rolls).	PHB	232	0		0			0	
+		Flesh to Stone	tran			V,S,M	1std	med	one creature	instant	fort neg	y	Turns subject creature into statue.	PHB	232						6	
+		Fly	tran			V,S,F/DF	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y (h/l)	Subject gains a fly speed of 60 ft.	PHB	232						3	
+		Fog Cloud	con	creation		V,S	1std	med	fog spreads in 20-ft radius, 20 ft high	10 min/lvl	-	n	Fog obscures vision.	PHB	232			2			2	
+		Forbiddance	abj			V,S,M,DF	6rds	med	60-ft cube/level (s)	perm	see text	y	Blocks planar travel, damages creatures of different alignment.	PHB	232		6					
+		Forcecage	evo		force	V,S,M	1std	close	barred cage (20-ft cube) or windowless cell (10-ft cube)	2 hrs/lvl (d)	-	n	Cube or cage of force imprisons all inside.	PHB	233						7	
+		Foresight	div			V,S,M/DF	1std	personal or touch	see text	10 min/lvl	- or will neg (h/l)	n or y (h/l)	Sixth sense warns of impending danger.	PHB	233			9			9	
+		Fox's Cunning	tran			V,S,M/DF	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y	Subject gains +4 to Int for 1 min./level.	PHB	233	2					2	
+		Fox's Cunning, Mass	tran			V,S,M/DF	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 min/lvl	will neg (h/l)	y	As fox's cunning, affects one subject/level.	PHB	233	6					6	
+		Freedom	abj			V,S	1std	close or see text	one creature	instant	will neg (h/l)	y	Releases creature from imprisonment.	PHB	233						9	
+		Freedom of Movement	abj			V,S,M,DF	1std	personal or touch	you or creature touched	10 min/lvl	will neg (h/l)	y (h/l)	Subject moves normally despite impediments.	PHB	233	4	4	4		4		
+		Gaseous Form	tran			S,M/DF	1std	touch	willing corporeal creature touched	2 min/lvl (d)	-	n	Subject becomes insubstantial and can fly slowly.	PHB	234	3					3	
+		Gate	con	creation or calling		V,S,XP,text	1std	med	see text	instant or (c) (≤ 1 rd/lvl); see text	-	n	Connects two planes for travel or summoning.	PHB	234		9				9	
+		Geas, Lesser	ench	compulsion	language-dependent, mind-affecting	V	1rd	close	one living creature with 7 hd or less	1 day/lvl or until dis (d)	will neg	y	Commands subject of 7 HD or less.	PHB	235	3					4	
+		Geas/Quest	ench	compulsion	mind-affecting, language-dependent	V	10min	close	one living creature	1 day/lvl or until dis (d)	-	y	As geas, lesser, plus it affects any creature.	PHB	234	6	6				6	
+		Gentle Repose	nec			V,S,M/DF	1std	touch	corpse touched	1 day/lvl	will neg (obj)	y (obj)	Preserves one corpse.	PHB	235		2				3	
+		Ghost Sound	ill	figment		V,S,M	1std	close	illusory sounds	1 rd/lvl (d)	will disbelief (if interacted with)	n	Figment sounds.	PHB	235	0					0	
+		Ghoul Touch	nec		negative	V,S,M	1std	touch	living humanoid touched	1d6+2 rds	fort neg	y	Paralyzes one subject, which exudes stench	PHB	235						2	
+		Giant Vermin	tran			V,S,DF	1std	close	up to three vermin, no two of which can be more than 30 ft apart	1 min/lvl	-	y	Turns centipedes, scorpions, or spiders into giant vermin.	PHB	235		4	4				
+		Glibness	tran			S	1std	personal	you	10 min/lvl (d)			You gain +30 bonus on Bluff checks, and your lies can escape magical discernment.	PHB	235	3						
+		Glitterdust	con	creation		V,S,M	1std	med	creatures and objs within 10-ft-radius spread	1 rd/lvl	will neg (blinding only)	n	Blinds creatures, outlines invisible creatures.	PHB	236	2					2	
+		Globe of Invulnerability	abj			V,S,M	1std	10 ft	10-ft-radius spherical emanation, centered on you	1 rd/lvl (d)	-	n	As globe of invulnerability, lesser, plus 4th-level spell effects.	PHB	236						6	
+		Globe of Invulnerability, Lesser	abj			V,S,M	1std	10 ft	10-ft-radius spherical emanation, centered on you	1 rd/lvl (d)	-	n	Stops 1st- through 3rd-level spell effects.	PHB	236						4	
+		Glossolalia	evo			V	1std	60 ft	cone-shaped burst	instant	fort part; see text	y	Cone-shaped shriek distracts smart foes, makes concentrating difficult.	PHB		2						
+		Glyph of Warding	abj			V,S,M	10min	touch	obj touched or up to 5 sq. ft/level	perm until dis (d)	see text	n (obj) and y; see text	Inscription harms those who pass it.	PHB	236		3					
+		Glyph of Warding, Greater	abj			V,S,M	10min	touch	obj touched or up to 5 sq. ft/level	perm until dis (d)	see text	n (obj) and y; see text	As glyph of warding, but up to 10d8 damage or 6th-level spell.	PHB	237		6					
+		Good Hope	ench	compulsion	mind-affecting	V,S	1std	med	one living creature/level, no two of which may be more than 30 ft apart	1 min/lvl	will neg (h/l)	y (h/l)	Subjects gain +2 on attack rolls, damage rolls, saves, and checks.	PHB	237	3						
+		Goodberry	tran			V,S,DF	1std	touch	2d4 fresh berries touched	1 day/lvl	-	y	2d4 berries each cure 1 hp (max 8 hp/24 hours).	PHB	237			1				
+		Grease	con	creation		V,S,M	1std	close	one obj or a 10-ft square	1 rd/lvl (d)	see text	n	Makes 10-ft. square or one object slippery.	PHB	237	1					1	
+		Guards and Wards	abj			V,S,M,F	30min	anywhere within the area to be warded	up to 200 sq. ft/level (s)	2 hrs/lvl (d)	see text	see text	Array of magic effects protect area.	PHB	237						6	
+		Guidance	div			V,S	1std	touch	creature touched	1 minute or until dis	will neg (h/l)	y	+1 on one attack roll, saving throw, or skill check.	PHB	238		0	0				
+		Gust of Wind	evo		air	V,S	1std	60 ft	line-shaped gust of severe wind emanating out from you to the extreme of the range	1 rd	fort neg	y	Blows away or knocks down smaller creatures.	PHB	238			2			2	
+		Hallow	evo		good	V,S,M,DF	1day	touch	40-ft radius emanating from the touched point	instant	see text	see text	Designates location as holy.	PHB	238		5	5				
+		Hallucinatory Terrain	ill	glamer		V,S,M	10min	long	one 30-ft cube/level (s)	2 hrs/lvl (d)	will disbelief (if interacted with)	n	Makes one type of terrain appear like another (field into forest, or the like).	PHB	238	4					4	
+		Halt Undead	nec			V,S,M	1std	med	up to three undead creatures, no two of which can be more than 30 ft apart	1 rd/lvl	will neg; see text	y	Immobilizes undead for 1 round/level.	PHB	238						3	
+		Hardening	tran			V,S	1std	touch	one item of a volume no greater than 10 cu. ft/level (see text)	perm	-	y (obj)	Permanently make an object's hardness improve.	PHB							6	
+		Harm	nec		negative	V,S	1std	touch	creature touched	instant	will ½; see text	y	Deals 10 points/level damage to target.	PHB	239		6					
+		Haste	tran			V,S,M	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 rd/lvl	fort neg (h/l)	y (h/l)	One creature/level moves faster, +1 on attack rolls, AC, and ref saves.	PHB	239	3					3	
+		Heal	con	healing	positive	V,S	1std	touch	creature touched	instant	will neg (h/l)	y (h/l)	Cures 10 points/level of damage, all diseases and mental conditions.	PHB	239		6	7				
+		Heal Mount	con	healing		V,S	1std	touch	your mount touched	instant	will neg (h/l)	y (h/l)	As heal on warhorse or other special mount.	PHB	239				3			
+		Heal, Mass	con	healing	positive	V,S	1std	close	one or more creatures, no two of which can be more than 30 ft apart	instant	will neg (h/l)	y (h/l)	As heal, but with several subjects.	PHB	239		9					
+		Heat Metal	tran		fire	V,S,DF	1std	close	metal equipment of one creature per two levels, no two of which can be more than 30 ft apart; or 25 lb. of metal/level, all of which must be within a 30-ft circle	7 rds	will neg (obj)	y (obj)	Make metal so hot it damages those who touch it.	PHB	239			2				
+		Helping Hand	evo			V,S,DF	1std	5 mi	ghostly hand	1 hr/lvl	-	n	Ghostly hand leads subject to you.	PHB	239		3					
+		Heroes' Feast	con	creation		V,S,DF	10min	close	feast for one creature/level	1 hr plus 12 hrs; see text	-	n	Food for one creature/level cures and grants combat bonuses.	PHB	240	6	6					
+		Heroism	ench	compulsion	mind-affecting	V,S	1std	touch	creature touched	10 min/lvl	will neg (h/l)	y (h/l)	Gives +2 on attack rolls, saves, skill checks.	PHB	240	2					3	
+		Heroism, Greater	ench	compulsion	mind-affecting	V,S	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y (h/l)	Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.	PHB	240	5					6	
+		Hide from Animals	abj			S,DF	1std	touch	one creature touched/level	10 min/lvl (d)	will neg (h/l)	y	Animals cant perceive one subject/level.	PHB	241			1		1		
+		Hide from Undead	abj		ectomancy	V,S,DF	1std	touch	one touched creature/level	10 min/lvl (d)	will neg (h/l); see text	y	Undead can't perceive one subject/level.	PHB	241		1					
+		Hold Animal	ench	compulsion	mind-affecting	V,S	1std	med	one animal	1 rd/lvl (d); see text	will neg; see text	y	Paralyzes one animal for 1 round/level.	PHB	241			2		2		
+		Hold Monster	ench	compulsion	mind-affecting	V,S,M/DF	1std	med	one living creature	1 rd/lvl (d); see text	will neg; see text	y	As hold person, but any creature.	PHB	241	4					5	
+		Hold Monster, Mass	ench	compulsion	mind-affecting	V,S,M/DF	1std	med	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d); see text	will neg; see text	y	As hold monster, but all within 30 ft.	PHB	241						9	
+		Hold Person	ench	compulsion	mind-affecting	V,S,F/DF	1std	med	one humanoid creature	1 rd/lvl (d); see text	will neg; see text	y	Paralyzes one humanoid for 1 round/level.	PHB	241	2	2				3	
+		Hold Person, Mass	ench	compulsion	mind-affecting	V,S,F/DF	1std	med	one or more humanoid creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d); see text	will neg; see text	y	As hold person, but all within 30 ft.	PHB	241						7	
+		Hold Portal	abj			V	1std	med	one portal, up to 20 sq. ft/level	1 min/lvl (d)	-	n	Holds door shut.	PHB	241						1	
+		Holy Aura	abj		good	V,S,F	1std	20 ft	one creature/level in a 20-ft-radius burst centered on you	1 rd/lvl (d)	see text	y (h/l)	+4 to AC, +4 resistance, and SR 25 against evil spells.	PHB	241		8					
+		Holy Smite	evo		good	V,S	1std	med	20-ft-radius burst	instant (1 rd); see text	will part; see text	y	Damages and blinds evil creatures.	PHB	241							
+		Holy Sword	evo		good	V,S	1std	touch	melee weapon touched	1 rd/lvl	-	n	Weapon becomes +5, deals +2d6 damage against evil.	PHB	242				4			
+		Holy Word	evo		sonic, good	V	1std	40 ft	nongood creatures in a 40-ft-radius spread centered on you	instant	- or will neg; see text	y	Kills, paralyzes, blinds, or deafens nongood subjects.	PHB	242		7					
+		Horrid Wilting	nec			V,S,M/DF	1std	long	living creatures, no two of which can be more than 60 ft apart	instant	fort ½	y	Deals 1d6/level damage within 30 ft.	PHB	242						8	
+		Hypnotic Pattern	ill	pattern		V,S,M,text	1std	med	colorful lights in a 10-ft-radius spread	(c) + 2 rds	will neg	y	Fascinates (2d4 + level) HD of creatures.	PHB	242	2					2	
+		Hypnotism	ench	compulsion	mind-affecting	V,S	1rd	close	several living creatures, no two of which may be more than 30 ft apart	2d4 rds (d)	will neg	y	Fascinates 2d4 HD of creatures.	PHB	242	1					1	
+		Ice Storm	evo		cold	V,S,M/DF	1std	long	cylinder (20-ft radius, 40 ft high)	1 full rd	-	y	Hail deals 5d6 damage in cylinder 40 ft. across.	PHB	243			4			4	
+		Identify	div			V,S,M/DF	1hr	touch	one touched obj	instant	-	n	Determines properties of magic item.	PHB	243	1					1	
+		Illusory Script	ill	phantasm	mind-affecting	V,S,M	1min+	touch	one touched obj weighing no more than 10 lb.	1 day/lvl (d)	will neg; see text	y	Only intended reader can decipher.	PHB	243	3					3	
+		Illusory Wall	ill	figment		V,S	1std	close	image 1 ft by 10 ft by 10 ft	perm	will disbelief (if interacted with)	n	Wall, floor, or ceiling looks real, but anything can pass through.	PHB	243						4	
+		Imbue with Spell Ability	evo			V,S,DF	10min	touch	creature touched; see text	perm until dis (d)	will neg (h/l)	y (h/l)	Transfer spells to subject.	PHB	243		4					
+		Implosion	evo			V,S	1std	close	one corporeal creature/round	(c) (≤ 4 rds)	fort neg	y	Kills one creature/round.	PHB	243		9					
+		Imprisonment	abj			V,S	1std	touch	creature touched	instant	will neg; see text	y	Entombs subject beneath the earth.	PHB	244						9	
+		Incendiary Cloud	con	creation	fire	V,S	1std	med	cloud spreads in 20-ft radius, 20 ft high	1 rd/lvl	ref ½; see text	n	Cloud deals 4d6 fire damage/round.	PHB	244						8	
+		Inflict Critical Wounds	nec		negative	V,S	1std	touch	creature touched	instant	will ½	y	Touch attack, 4d8 damage +1/level (max +20).	PHB	244		4					
+		Inflict Critical Wounds, Mass	nec		negative	V,S	1std	close	one creature/level, no two of which can be more than 30 ft apart	instant	will ½	y	Deals 4d8 damage +1/level to many creatures.	PHB	244		8					
+		Inflict Light Wounds	nec		negative	V,S	1std	touch	creature touched	instant	will ½	y	Touch deals 1d8 damage +1/level (max +5).	PHB	244		1					
+		Inflict Light Wounds, Mass	nec		negative	V,S	1std	close	one creature/level, no two of which can be more than 30 ft apart	instant	will ½	y	Deals 1d8 damage +1/level to many creatures.	PHB	244		5					
+		Inflict Minor Wounds	nec		negative	V,S	1std	touch	creature touched	instant	will neg	y	Touch attack, 1 point of damage.	PHB	244		0					
+		Inflict Moderate Wounds	nec		negative	V,S	1std	touch	creature touched	instant	will ½	y	Touch attack, 2d8 damage +1/level (max +10).	PHB	244		2					
+		Inflict Moderate Wounds, Mass	nec		negative	V,S	1std	close	one creature/level, no two of which can be more than 30 ft apart	instant	will ½	y	Deals 2d8 damage +1/level to many creatures.	PHB	244		6					
+		Inflict Serious Wounds	nec		negative	V,S	1std	touch	creature touched	instant	will ½	y	Touch attack, 3d8 damage +1/level (max +15).	PHB	244		3					
+		Inflict Serious Wounds, Mass	nec		negative	V,S	1std	close	one creature/level, no two of which can be more than 30 ft apart	instant	will ½	y	Deals 3d8 damage +1/level to many creatures.	PHB	244		7					
+		Insanity	ench	compulsion	mind-affecting	V,S	1std	med	one living creature	instant	will neg	y	Subject suffers continuous confusion.	PHB	244						7	
+		Insect Plague	con	summoning		V,S,DF	1rd	long	one swarm of locusts per three levels, each of which must be adjacent to at least one other swarm	1 min/lvl	-	n	Locust swarms attack creatures.	PHB	244		5	5				
+		Invisibility	ill	glamer		V,S,M/DF	1std	personal or touch	you or a creature or obj weighing no more than 100 lb./level	1 min/lvl (d)	will neg (h/l) or will neg (h/l, obj)	y (h/l) or y (h/l, obj)	Subject is invisible for 1 min./level or until it attacks.	PHB	245	2					2	
+		Invisibility Purge	evo			V,S	1std	personal	you	1 min/lvl (d)			Dispels invisibility within 5 ft./level.	PHB	245		3					
+		Invisibility Sphere	ill	glamer		V,S,M	1std	personal or touch	10-ft-radius emanation around the creature or obj touched	1 min/lvl (d)	will neg (h/l) or will neg (h/l, obj)	y (h/l) or y (h/l, obj)	Makes everyone within 10 ft. invisible.	PHB	245	3					3	
+		Invisibility, Greater	ill	glamer		V,S	1std	personal or touch	you or creature touched	1 rd/lvl (d)	will neg (h/l)	y (h/l) or y (h/l, obj)	As invisibility, but subject can attack and stay invisible.	PHB	245	4					4	
+		Invisibility, Mass	ill	glamer		V,S,M	1std	long	any number of creatures, no two of which can be more than 180 ft apart	1 min/lvl (d)	will neg (h/l) or will neg (h/l, obj)	y (h/l) or y (h/l, obj)	As invisibility, but affects all in range.	PHB	245						7	
+		Iron Body	tran			V,S,M/DF	1std	personal	you	1 min/lvl (d)			Your body becomes living iron.	PHB	245						8	
+		Ironwood	tran			V,S,M	1min/lb+fz1242	0 ft	an ironwood obj weighing up to 5 lb./level	1 day/lvl (d)	-	n	Magic wood is strong as steel.	PHB	246			6				
+		Jump	tran			V,S,M	1std	touch	creature touched	1 min/lvl (d)	will neg (h/l)	y	Subject gets bonus on Jump checks.	PHB	246			1		1	1	
+		Keen Edge	tran			V,S	1std	close	one weapon or fifty projectiles, all of which must be in contact with each other at the time of casting	10 min/lvl	will neg (h/l, obj)	y (h/l, obj)	Doubles normal weapons threat range.	PHB	246						3	
+		Knock	tran			V	1std	med	one door, box, or chest with an area of up to 10 sq. ft/level	instant; see text	-	n	Opens locked or magically sealed door.	PHB	246						2	
+		Know Direction	div			V,S	1std	personal	you	instant			You discern north.	PHB	246	0		0				
+		Legend Lore	div			V,S,M,F	seetext	personal	you	see text			Lets you learn tales about a person, place, or thing.	PHB	246	4					6	
+		Leomund's Secret Chest	con	summoning		V,S,F	10min	see text	one chest and up to 1 cu. ft of goods/caster level	60 days or until dis	-	n	Hides expensive chest on Ethereal Plane; you retrieve it at will.	PHB	247						5	
+		Leomund's Secure Shelter	con	creation		V,S,M,F,text	10min	close	20-ft-square structure	2 hrs/lvl (d)	-	n	Creates sturdy cottage.	PHB	247	4					4	
+		Leomund's Tiny Hut	evo		force	V,S,M	1std	20 ft	20-ft-radius sphere centered on your location	2 hrs/lvl (d)	-	n	Creates shelter for ten creatures.	PHB	247	3					3	
+		Leomund's Trap	ill	glamer		V,S,M	1std	touch	obj touched	perm (d)	-	n	Makes item seem trapped.	PHB	247						2	
+		Levitate	tran			V,S,F	1std	personal or close	you or one willing creature or one obj (total weight up to 100 lb./level)	1 min/lvl (d)	-	n	Subject moves up and down at your direction.	PHB	248						2	
+		Light	evo		light	V,M/DF	1std	touch	obj touched	10 min/lvl (d)	-	n	Object shines like a torch.	PHB	248	0	0	0			0	
+		Lightning Bolt	evo		electricity	V,S,M	1std	120 ft	120-ft line	instant	ref ½	y	Electricity deals 1d6/level damage.	PHB	248						3	
+		Limited Wish	uni			V,S,XP	1std	see text	see text	see text	-; see text	y	Alters reality within spell limits.	PHB	248						7	
+		Liveoak	tran			V,S	10min	touch	tree touched	1 day/lvl (d)	-	n	Oak becomes treant guardian.	PHB	248			6				
+		Locate Creature	div			V,S,M	1std	long	circle, centered on you, with a radius of 400 ft + 40 ft/level	10 min/lvl	-	n	Indicates direction to familiar creature.	PHB	249	4					4	
+		Locate Object	div			V,S,F/DF	1std	long	circle, centered on you, with a radius of 400 ft + 40 ft/level	1 min/lvl	-	n	Senses direction toward object (specific or type).	PHB	249	2	3				2	
+		Longstrider	tran			V,S,M	1std	personal	you	1 hr/lvl (d)			Increases your speed.	PHB	249			1		1		
+		Lullaby	ench	compulsion	mind-affecting	V,S	1std	med	living creatures within a 10-ft-radius burst	(c) + 1 rd/lvl (d)	will neg	y	Makes subject drowsy; 5 on Spot and Listen checks, 2 on Will saves against sleep.	PHB	249	0						
+		Maddening Scream	ench	compulsion	mind-affecting	V	1std	touch	living creature touched	1d4+1 rds	-	y	Subject has -4 AC, no shield, ref save on 20 only.	PHB							8	
+		Mage Armor	con	creation	force	V,S,F	1std	touch	creature touched	1 hr/lvl (d)	will neg (h/l)	n	Gives subject +4 armor bonus.	PHB	249						1	
+		Mage Hand	tran			V,S	1std	close	one nonmagical, unattended obj weighing up to 5 lb.	(c)	-	n	5-pound telekinesis.	PHB	249	0					0	
+		Magic Circle against Chaos	abj		lawful	V,S,M/DF	1std	touch	10-ft-radius emanation from touched creature	10 min/lvl	will neg (h/l)	n; see text	As protection spells, but 10-ft. radius and 10 min./level.	PHB	249		3		3		3	
+		Magic Circle against Evil	abj		good	V,S,M/DF	1std	touch	10-ft-radius emanation from touched creature	10 min/lvl	will neg (h/l)	n; see text	As protection spells, but 10-ft. radius and 10 min./level.	PHB	249		3		3		3	
+		Magic Circle against Good	abj		evil	V,S,M/DF	1std	touch	10-ft-radius emanation from touched creature	10 min/lvl	will neg (h/l)	n; see text	As protection spells, but 10-ft. radius and 10 min./level.	PHB	250		3				3	
+		Magic Circle against Law	abj		chaotic	V,S,M/DF	1std	touch	10-ft-radius emanation from touched creature	10 min/lvl	will neg (h/l)	n; see text	As protection spells, but 10-ft. radius and 10 min./level.	PHB	250		3				3	
+		Magic Fang	tran			V,S,DF	1std	touch	living creature touched	1 min/lvl	will neg (h/l)	y (h/l)	One natural weapon of subject creature gets +1 on attack and damage rolls.	PHB	250			1		1		
+		Magic Fang, Greater	tran			V,S,DF	1std	close	one living creature	1 hr/lvl	will neg (h/l)	y (h/l)	One natural weapon of subject creature gets +1/three levels on attack and damage rolls (max +5).	PHB	250			3		3		
+		Magic Jar	nec			V,S,F	1std	med	one creature	1 hr/lvl or until you return to your body	will neg; see text	y	Enables possession of another creature.	PHB	250						5	
+		Magic Missile	evo		force	V,S	1std	med	up to five creatures, no two of which can be more than 15 ft apart	instant	-	y	1d4+1 damage; +1 missile per two levels above 1st (max 5).	PHB	251						1	
+		Magic Mouth	ill	glamer		V,S,M	1std	close	one creature or obj	perm until dis	will neg (obj)	y (obj)	Speaks once when triggered.	PHB	251	1					2	
+		Magic Stone	tran			V,S,DF	1std	touch	up to three pebbles touched	30 min or until dis	will neg (h/l, obj)	y (h/l, obj)	Three stones gain +1 on attack, deal 1d6 +1 damage.	PHB	251		1	1				
+		Magic Vestment	tran			V,S,DF	1std	touch	armor or shield touched	1 hr/lvl	will neg (h/l, obj)	y (h/l, obj)	Armor or shield gains +1 enhancement per four levels.	PHB	251		3					
+		Magic Weapon	tran			V,S,DF	1std	touch	weapon touched	1 min/lvl	will neg (h/l, obj)	y (h/l, obj)	Weapon gains +1 bonus.	PHB	251		1		1		1	
+		Magic Weapon, Greater	tran			V,S,M/DF	1std	close	one weapon or fifty projectiles (all of which must be in contact with each other at the time of casting)	1 hr/lvl	will neg (h/l, obj)	y (h/l, obj)	+1 bonus/four levels (max +5).	PHB	251		4		3		3	
+		Major Creation	con	creation		V,S,M	10min	close	unattended, nonmagical obj of matter, up to 1 cu. ft/level	see text	-	n	As minor creation, plus stone and metal.	PHB	252						5	
+		Major Image	ill	figment		V,S,F	1std	long	visual figment that cannot extend beyond four 10-ft cubes + one 10-ft cube/level (s)	(c) + 3 rds	will disbelief (if interacted with)	n	As silent image, plus sound, smell and thermal effects.	PHB	252	3					3	
+		Make Whole	tran			V,S	1std	close	one obj of up to 10 cu. ft/ level	instant	will neg (h/l, obj)	y (h/l, obj)	Repairs an object.	PHB	252		2					
+		Mark of Justice	nec			V,S,DF	10min	touch	creature touched	perm; see text	-	y	Designates action that will trigger curse on subject.	PHB	252		5		4			
+		Maze	con	teleportation		V,S	1std	close	one creature	see text	-	y	Traps subject in extradimensional maze.	PHB	252						8	
+		Meld into Stone	tran		earth	V,S,DF	1std	personal	you	10 min/lvl			You and your gear merge with stone.	PHB	252		3	3				
+		Melf's Acid Arrow	con		acid	V,S,M,F	1std	long	one arrow of acid	1 rd + 1 rd/3 lvls	-	n	Ranged touch attack; 2d4 damage for 1 round +1 round/three levels.	PHB	253						2	
+		Mending	tran			V,S	1std	10 ft	one obj of up to 1 lb.	instant	will neg (h/l, obj)	y (h/l, obj)	Makes minor repairs on an object.	PHB	253	0	0	0			0	
+		Mental Pinnacle	tran			V,S,M	1std	personal	you	1 rd/lvl			You gain the mental powers of a psion.	PHB							6	
+		Message	tran		language-dependent	V,S,F	1std	med	one creature/level	10 min/lvl	-	n	Whispered conversation at distance.	PHB	253	0					0	
+		Meteor Swarm	evo		fire	V,S	1std	long	four 40-ft-radius spreads; see text	instant	- or ref ½; see text	y	Four exploding spheres each deal 6d6 fire damage.	PHB	253						9	
+		Mind Blank	abj			V,S	1std	close	one creature	1 day	will neg (h/l)	y (h/l)	Subject is immune to mental/emotional magic and scrying.	PHB	253						8	
+		Mind Fog	ench	compulsion	mind-affecting	V,S	1std	med	fog spreads in 20-ft radius, 20 ft high	30 min and 2d6 rds; see text	will neg	y	Subjects in fog get -10 to Wis and Will checks.	PHB	253	5					5	
+		Minor Creation	con	creation		V,S,M	1min	0 ft	unattended, nonmagical obj of nonliving plant matter, up to 1 cu. ft/level	1 hr/lvl (d)	-	n	Creates one cloth or wood object.	PHB	253						4	
+		Minor Image	ill	figment		V,S,F	1std	long	visual figment that cannot extend beyond four 10-ft cubes + one 10-ft cube/level (s)	(c) + 2 rds	will disbelief (if interacted with)	n	As silent image, plus some sound.	PHB	254	2					2	
+		Miracle	evo			V,S,XP,text	1std	see text	see text	see text	see text	y	Requests a deity's intercession.	PHB	254		9					
+		Mirage Arcana	ill	glamer		V,S	1std	long	one 20-ft cube/level (s)	(c) + 1 hr/lvl (d)	will disbelief (if interacted with)	n	As hallucinatory terrain, plus structures.	PHB	254	5					5	
+		Mirror Image	ill	figment		V,S	1std	personal; see text	you	1 min/lvl (d)			Creates decoy duplicates of you (1d4 +1 per three levels, max 8).	PHB	254	2					2	
+		Misdirection	ill	glamer		V,S	1std	close	one creature or obj, up to a 10-ft cube in size	1 hr/lvl	- or will neg; see text	n	Misleads divinations for one creature or object.	PHB	254	2					2	
+		Mislead	ill	figment	glamer		s	1 standard action	target/effect	you/one illusory double	1 round/level (d) & concentration + 3 rounds; see text	nne or will disbelief (if interacted with); see text	No	PHB	255							
+		Modify Memory	ench	compulsion	mind-affecting	V,S	1rd;seetext	close	one living creature	perm	will neg	y	Changes 5 minutes of subjects memories.	PHB	255	4						
+		Moment of Prescience	div			V,S	1std	personal	you	1 hr/lvl or until dis			You gain insight bonus on single attack roll, check, or save.	PHB	255						8	
+		Mordenkainen's Disjunction	abj			V	1std	close	all magical effects and magic items within a 40-ft-radius burst	instant	will neg (obj)	n	Dispels magic, disenchants magic items.	PHB	255						9	
+		Mordenkainen's Faithful Hound	con	creation		V,S,M	1std	close	phantom watchdog	1 day	-	n	Phantom dog can guard, attack.	PHB	255						5	
+		Mordenkainen's Lucubration	tran			V,S	1std	personal	you	instant			Wizard only. Recalls spell of 5th level or lower.	PHB	255							
+		Mordenkainen's Magnificent Mansion	con	creation		V,S,F/DF	1std	close	extradimensional mansion, up to three 10-ft cubes/level (s)	2 hrs/lvl (d)	-	n	Door leads to extradimensional mansion.	PHB	255						7	
+		Mordenkainen's Private Sanctum	abj			V,S,M	10min	close	30-ft cube/level (s)	1 day (d)	-	n	Prevents anyone from viewing or scrying an area for 24 hours.	PHB	255						5	
+		Mordenkainen's Sword	evo		force	V,S,F	1std	close	one sword	1 rd/lvl (d)	-	y	Floating magic blade strikes opponents.	PHB	255						7	
+		Mount	con	summoning		V,S,M	1rd	close	one mount	2 hrs/lvl (d)	-	n	Summons riding horse for 2 hours/level.	PHB	256						1	
+		Move Earth	tran		earth	V,S,M	seetext	long	dirt in an area up to 750 ft square and up to 10 ft deep (s)	instant	-	n	Digs trenches and builds hills.	PHB	257			6			6	
+		Neutralize Poison	con	healing		V,S,M/DF	1std	touch	creature or obj of up to 1 cu. ft/level touched	10 min/lvl	will neg (h/l, obj)	y (h/l, obj)	Immunizes subject against poison, detoxifies venom in or on subject.	PHB	257	4	4	3	4	3		
+		Nightmare	ill	phantasm	mind-affecting, evil	V,S	10min	unlimited	one living creature	instant	will neg; see text	y	Sends vision dealing 1d10 damage, fatigue.	PHB	257	5					5	
+		Nondetection	abj			V,S,M	1std	touch	creature or obj touched	1 hr/lvl	will neg (h/l, obj)	y (h/l, obj)	Hides subject from divination, scrying.	PHB	257					4	3	
+		Nystul's Magic Aura	ill	glamer		V,S,F	1std	touch	one touched obj weighing up to 5 lb./level	1 day/lvl (d)	-; see text	n	Alters objects magic aura.	PHB	257	1					1	
+		Obscure Object	abj			V,S,M/DF	1std	touch	one obj touched of up to 100 lb./level	8 hrs (d)	will neg (obj)	y (obj)	Masks object against scrying.	PHB	258	1	3				2	
+		Obscuring Mist	con	creation		V,S	1std	20 ft	cloud spreads in 20-ft radius from you, 20 ft high	1 min/lvl	-	n	Fog surrounds you.	PHB	258		1	1			1	
+		Open/Close	tran			V,S,F	1std	close	obj weighing up to 30 lb. or portal that can be opened or closed	instant	will neg (obj)	y (obj)	Opens or closes small or light things.	PHB	258	0					0	
+		Order's Wrath	evo		lawful	V,S	1std	med	nonlawful creatures within a burst that fills a 30-ft cube	instant (1 rd); see text	will part; see text	y	Damages and dazes chaotic creatures.	PHB	258							
+		Otiluke's Freezing Sphere	evo		cold	V,S,F	1std	long	see text	instant or 1 rd/lvl; see text	ref ½; see text	y	Freezes water or deals cold damage.	PHB	258						6	
+		Otiluke's Resilient Sphere	evo		force	V,S,M	1std	close	1-ft-diameter/level sphere, centered around a creature	1 min/lvl (d)	ref neg	y	Force globe protects but traps one subject.	PHB	258						4	
+		Otiluke's Telekinetic Sphere	evo		force	V,S,M	1std	close	1-ft-diameter/level sphere, centered around creatures or objs	1 min/lvl (d)	ref neg (obj)	y (obj)	As resilient sphere, but you move sphere telekinetically.	PHB	259						8	
+		Otto's Irresistible Dance	ench	compulsion	mind-affecting	V	1std	touch	living creature touched	1d4+1 rds	-	y	Forces subject to dance.	PHB	259	6					8	
+		Overland Flight	tran			V,S	1std	personal	you	1 hr/lvl	will neg (h/l)	y (h/l)	You fly at a speed of 40 ft. and can hustle over long distances.	PHB	259						5	
+		Owl's Wisdom	tran			V,S,M/DF	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y	Subject gains +4 to Wis for 1 min./level.	PHB	259		2	2	2	2	2	
+		Owl's Wisdom, Mass	tran			V,S,M/DF	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 min/lvl	will neg (h/l)	y	As owl's wisdom, affects one subject/level.	PHB	259		6	6			6	
+		Pass without Trace	tran			V,S,DF	1std	touch	one creature/level touched	1 hr/lvl (d)	will neg (h/l)	y (h/l)	One subject/level leaves no tracks.	PHB	259			1		1		
+		Passwall	tran			V,S,M	1std	touch	5 ft by 8 ft opening, 10 ft deep plus 5 ft deep per three additional levels	1 hr/lvl (d)	-	n	Creates passage through wood or stone wall.	PHB	259						5	
+		Permanency	uni			V,S,XP	2rds	see text	see text	perm; see text	-	n	Makes certain spells permanent.	PHB	259						5	
+		Permanent Image	ill	figment		V,S,M	1std	long	figment that cannot extend beyond a 20-ft cube + one 10-ft cube/level (s)	perm (d)	will disbelief (if interacted with)	n	Includes sight, sound, and smell.	PHB	260	6					6	
+		Persistent Image	ill	figment		V,S,M	1std	long	visual figment that cannot extend beyond four 10-ft cubes + one 10-ft cube/level (s)	1 min/lvl (d)	will disbelief (if interacted with)	n	As major image, but no concentration required.	PHB	260	5					5	
+		Phantasmal Killer	ill	phantasm	fear, mind-affecting	V,S	1std	med	one living creature	instant	will disbelief (if interacted with), then fort part; see text	y	Fearsome illusion kills subject or deals 3d6 damage.	PHB	260						4	
+		Phantom Steed	con	creation		V,S	10min	0 ft	one quasi-real, horselike creature	1 hr/lvl (d)	-	n	Magic horse appears for 1 hour/level.	PHB	260	3					3	
+		Phase Door	con	creation		V	1std	0 ft	ethereal 5 ft by 8 ft opening, 10 ft deep + 5 ft deep per three levels	1 usage/2 lvls	-	n	Creates an invisible passage through wood or stone.	PHB	261						7	
+		Planar Ally	con	calling	varies	V,S,DF,XP	10min	close	one or two called elementals or outsiders, totaling no more than 12 hd, which cannot be more than 30 ft apart when they appear	instant	-	n	As lesser planar ally, but up to 12 HD.	PHB	261		6					
+		Planar Ally, Greater	con	calling	varies	V,S,DF,XP	10min	close	up to three called elementals or outsiders, totaling no more than 18 hd, no two of which can be more than 30 ft apart when they appear.	instant	-	n	As lesser planar ally, but up to 18 HD.	PHB	261		8					
+		Planar Ally, Lesser	con	calling	varies	V,S,DF,XP	10min	close	one called elemental or outsider of 6 hd or less	instant	-	n	Exchange services with a 6 HD extraplanar creature.	PHB	261		4					
+		Planar Binding	con	calling		V,S	10min	close; see text	up to three elementals or outsiders, totaling no more than 12 hd, no two of which can be more than 30 ft apart when they appear	instant	will neg	n and y; see text	As lesser planar binding, but up to 12 HD.	PHB	261						6	
+		Planar Binding, Greater	con	calling		V,S	10min	close; see text	up to three elementals or outsiders, totaling no more than 18 hd, no two of which can be more than 30 ft apart when they appear.	instant	will neg	n and y; see text	As lesser planar binding, but up to 18 HD.	PHB	261						8	
+		Planar Binding, Lesser	con	calling		V,S	10min	close; see text	one elemental or outsider with 6hd or less	instant	will neg	n and y; see text	Traps extraplanar creature of 6 HD or less until it performs a task.	PHB	261						5	
+		Plane Shift	con	teleportation		V,S,F	1std	touch	creature touched, or up to eight willing creatures joining hands	instant	will neg	y	As many as eight subjects travel to another plane.	PHB	262		5				7	
+		Plant Growth	tran			V,S,DF	1std	see text	see text	instant	-	n	Grows vegetation, improves crops.	PHB	262			3		3		
+		Poison	nec			V,S,DF	1std	touch	living creature touched	instant; see text	fort neg; see text	y	Touch deals 1d10 Con damage, repeats in 1 min.	PHB	262		4	3				
+		Polar Ray	evo		cold	V,S,F/DF	1std	close	ray	instant	-	y	Ranged touch attack deals 1d6/level cold damage.	PHB	262						8	
+		Polymorph	tran			V,S,M	1std	touch	willing living creature touched	1 min/lvl (d)	-	n	Gives one willing subject a new form.	PHB	263						4	
+		Polymorph Any Object	tran			V,S,M/DF	1std	close	one creature, or one nonmagical obj of up to 100 cu. ft/level	see text	fort neg (obj); see text	y (obj)	Changes any subject into anything else.	PHB	263						8	
+		Power Word Blind	ench	compulsion	mind-affecting	V	1std	close	one creature with 200 hp or less	see text	-	y	Blinds creature with 200 hp or less.	PHB	263						7	
+		Power Word Kill	ench	compulsion	death, mind-affecting	V	1std	close	one living creature with 100 hp or less	instant	-	y	Kills one creature with 100 hp or less.	PHB	263						9	
+		Power Word Stun	ench	compulsion	mind-affecting	V	1std	close	one creature with 150 hp or less	see text	-	y	Stuns creature with 150 hp or less.	PHB	263						8	
+		Prayer	ench	compulsion	mind-affecting	V,S,DF	1std	40 ft	all allies and foes within a 40-ft-radius burst centered on you	1 rd/lvl	-	y	Allies +1 bonus on most rolls, enemies -1 penalty.	PHB	264		3		3			
+		Prestidigitation	uni			V,S	1std	10 ft	see text	1 hr	see text	n	Performs minor tricks.	PHB	264	0					0	
+		Prismatic Sphere	abj			V	1std	10 ft	10-ft-radius sphere centered on you	10 min/lvl (d)	see text	see text	As prismatic wall, but surrounds on all sides.	PHB	264						9	
+		Prismatic Spray	evo			V,S	1std	60 ft	cone-shaped burst	instant	see text	y	Rays hit subjects with variety of effects.	PHB	264						7	
+		Prismatic Wall	abj			V,S	1std	close	wall 4 ft/level wide, 2 ft/level high	10 min/lvl (d)	see text	see text	Wall’s colors have array of effects.	PHB	264						8	
+		Produce Flame	evo		fire	V,S	1std	0 ft	flame in your palm	1 min/lvl (d)	-	y	1d6 damage +1/level, touch or thrown.	PHB	265			1				
+		Programmed Image	ill	figment		V,S,M	1std	long	visual figment that cannot extend beyond a 20-ft cube + one 10-ft cube/level (s)	perm until triggered, then 1 rd/lvl	will disbelief (if interacted with)	n	As major image, plus triggered by event.	PHB	265	6					6	
+		Project Image	ill	shadow		V,S,M	1std	med	one shadow duplicate	1 rd/lvl (d)	will disbelief (if interacted with)	n	Illusory double can talk and cast spells.	PHB	265	6					7	
+		Protection from Arrows	abj			V,S,F	1std	touch	creature touched	1 hr/lvl or until dis	will neg (h/l)	y (h/l)	Subject immune to most ranged attacks.	PHB	266						2	
+		Protection from Chaos	abj		lawful	V,S,M/DF	1std	touch	creature touched	1 min/lvl (d)	will neg (h/l)	n; see text	+2 to AC and saves, counter mind control, hedge out elementals and outsiders.	PHB	266		1		1		1	
+		Protection from Energy	abj			V,S,DF	1std	touch	creature touched	10 min/lvl or until dis	fort neg (h/l)	y (h/l)	Absorb 12 points/level of damage from one kind of energy.	PHB	266		3	3		2	3	
+		Protection from Evil	abj		good	V,S,M/DF	1std	touch	creature touched	1 min/lvl (d)	will neg (h/l)	n; see text	+2 to AC and saves, counter mind control, hedge out elementals and outsiders.	PHB	266		1		1		1	
+		Protection from Good	abj		evil	V,S,M/DF	1std	touch	creature touched	1 min/lvl (d)	will neg (h/l)	n; see text	+2 to AC and saves, counter mind control, hedge out elementals and outsiders.	PHB	266		1				1	
+		Protection from Law	abj		chaotic	V,S,M/DF	1std	touch	creature touched	1 min/lvl (d)	will neg (h/l)	n; see text	+2 to AC and saves, counter mind control, hedge out elementals and outsiders.	PHB	266		1				1	
+		Protection from Spells	abj			V,S,M,F	1std	touch	up to one creature touched per four levels	10 min/lvl	will neg (h/l)	y (h/l)	Confers +8 resistance bonus.	PHB	266						8	
+		Prying Eyes	div			V,S,M	1min	1 mi	ten or more levitating eyes	1 hr/lvl; see text (d)	-	n	1d4 +1/level floating eyes scout for you.	PHB	266						5	
+		Prying Eyes, Greater	div			V,S,M	1min	1 mi	ten or more levitating eyes	1 hr/lvl; see text (d)	-	n	As prying eyes, but eyes have true seeing.	PHB	267						8	
+		Psychic Turmoil	abj			V,S,M	1std	close	40-ft-radius emanation centered on a point in space	1 rd/lvl	will part; see text	y	Invisible field leeches psionic power points away.	PHB			5				5	
+		Psychic Turmoil, Greater	abj			V,S,M	1std	close	40-ft-radius emanation centered on a point in space	1 rd/lvl	will part; see text	y	As psychic turmoil, but you gain power points as temporary hit points.	PHB			7				7	
+		Purify Food and Drink	tran			V,S	1std	10 ft	1 cu. ft/level of contaminated food and water	instant	will neg (obj)	y (obj)	Purifies 1 cu. ft./level of food or water.	PHB	267		0	0				
+		Pyrotechnics	tran			V,S,M	1std	long	one fire source, up to a 20-ft cube	1d4+1 rds, or 1d4+1 rds after creatures leave the smoke cloud; see text	will neg or fort neg; see text	y or n; see text	Turns fire into blinding light or choking smoke.	PHB	267	2					2	
+		Quench	tran			V,S,DF	1std	med	one 20-ft cube/level (s) or one fire-based magic item	instant	- or will neg (obj)	n or y (obj)	Extinguishes nonmagical fires or one magic item.	PHB	267			3				
+		Rage	ench	compulsion	mind-affecting	V,S	1std	med	one willing living creature per three levels, no two of which may be more than 30 ft apart	(c) + 1 rd/lvl (d)	-	y	Gives +2 to Str and Con, +1 on Will saves, -2 to AC.	PHB	268	2					3	
+		Rainbow Pattern	ill	pattern		V,S,M,F,text	1std	med	colorful lights with a 20-ft-radius spread	(c) + 1 rd/lvl (d)	will neg	y	Lights fascinate 24 HD of creatures.	PHB	268	4					4	
+		Raise Dead	con	healing	ectomancy	V,S,M,DF	1min	touch	dead creature touched	instant	-; see text	y (h/l)	Restores life to subject who died as long as one day/level ago.	PHB	268		5					
+		Rary's Mnemonic Enhancer	tran			V,S,M,F	10min	personal	you	instant			Wizard only. Prepares extra spells or retains one just cast.	PHB	268							
+		Rary's Telepathic Bond	div			V,S,M/DF	1std	close	you plus one willing creature per three levels, no two of which can be more than 30 ft apart	10 min/lvl (d)	-	n	Link lets allies communicate.	PHB	292						5	
+		Ray of Enfeeblement	nec			V,S	1std	close	ray	1 min/lvl	-	y	Ray deals 1d6 +1 per two levels Str penalty.	PHB	269						1	
+		Ray of Exhaustion	nec			V,S,M	1std	close	ray	1 min/lvl	fort part; see text	y	Ray makes subject exhausted.	PHB	269						3	
+		Ray of Frost	evo		cold	V,S	1std	close	ray	instant	-	y	Ray deals 1d3 cold damage.	PHB	269						0	
+		Read Magic	div			V,S,F	1std	personal	you	10 min/lvl			Read scrolls and spellbooks	PHB	269	0	0	0	1	1	0	
+		Reduce Animal	tran			V,S	1std	touch	one willing animal of small, medium, large, or huge size	1 hr/lvl (d)	-	n	Shrinks one willing animal.	PHB	269			2		3		
+		Reduce Person	tran			V,S,M	1rd	close	one humanoid creature	1 min/lvl (d)	fort neg	y	Humanoid creature halves in size.	PHB	269						1	
+		Reduce Person, Mass	tran			V,S,M	1rd	close	one humanoid creature/level, no two of which can be more than 30 ft apart	1 min/lvl (d)	fort neg	y	Reduces several creatures.	PHB	269						4	
+		Refuge	con	teleportation		V,S,M	1std	touch	obj touched	perm until dis	-	n	Alters item to transport its possessor to you.	PHB	269		7				9	
+		Regenerate	con	healing		V,S,DF	3fullrds	touch	living creature touched	instant	fort neg (h/l)	y (h/l)	Subjects severed limbs grow back, cures 4d8 damage +1/level (max +35).	PHB	270		7	9				
+		Reincarnate	tran		ectomancy	V,S,M,DF	10min	touch	dead creature touched	instant	-; see text	y (h/l)	Brings dead subject back in a random body.	PHB	270			4				
+		Remove Blindness/Deafness	con	healing		V,S	1std	touch	creature touched	instant	fort neg (h/l)	y (h/l)	Cures normal or magical conditions.	PHB	270		3		3			
+		Remove Curse	abj			V,S	1std	touch	creature or item touched	instant	will neg (h/l)	y (h/l)	Frees object or person from curse.	PHB	270	3	3		3		4	
+		Remove Disease	con	healing		V,S	1std	touch	creature touched	instant	fort neg (h/l)	y (h/l)	Cures all diseases affecting subject.	PHB	271		3	3		3		
+		Remove Fear	abj			V,S	1std	close	one creature plus one additional creature per four levels, no two of which can be more than 30 ft apart	10 min; see text	will neg (h/l)	y (h/l)	Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.	PHB	271	1	1					
+		Remove Paralysis	con	healing		V,S	1std	close	up to four creatures, no two of which can be more than 30 ft apart	instant	will neg (h/l)	y (h/l)	Frees one or more creatures from paralysis or slow effect.	PHB	271		2		2			
+		Repel Metal or Stone	abj		earth	V,S	1std	60 ft	60-ft line from you	1 rd/lvl (d)	-	n	Pushes away metal and stone.	PHB	271			8				
+		Repel Vermin	abj			V,S,DF	1std	10 ft	10-ft-radius emanation centered on you	10 min/lvl (d)	- or will neg; see text	y	Insects, spiders, and other vermin stay 10 ft. away.	PHB	271	4	4	4		3		
+		Repel Wood	tran			V,S	1std	60 ft	60-ft line-shaped emanation from you	1 min/lvl (d)	-	n	Pushes away wooden objects.	PHB	271			6				
+		Repulsion	abj			V,S,F/DF	1std	up to 10 ft/level	up to 10-ft-radius/level emanation centered on you	1 rd/lvl (d)	will neg	y	Creatures can't approach you.	PHB	271		7				6	
+		Resist Energy	abj			V,S,DF	1std	touch	creature touched	10 min/lvl	fort neg (h/l)	y (h/l)	Ignores 10 (or more) points of damage/attack from specified energy type.	PHB	272		2	2	2	1	2	
+		Resistance	abj			V,S,M/DF	1std	touch	creature touched	1 min	will neg (h/l)	y (h/l)	Subject gains +1 on saving throws.	PHB	272	0	0	0	1		0	
+		Restoration	con	healing		V,S,M	3rds	touch	creature touched	instant	will neg (h/l)	y (h/l)	Restores level and ability score drains.	PHB	272		4		4			
+		Restoration, Greater	con	healing		V,S,XP	10min	touch	creature touched	instant	will neg (h/l)	y (h/l)	As restoration, plus restores all levels and ability scores.	PHB	272		7					
+		Restoration, Lesser	con	healing		V,S	3rds	touch	creature touched	instant	will neg (h/l)	y (h/l)	Dispels magical ability penalty or repairs 1d4 ability damage.	PHB	272		2	2	1			
+		Resurrection	con	healing	ectomancy	V,S,M,DF	10min	touch	dead creature touched	instant	-; see text	y (h/l)	Fully restore dead subject.	PHB	272		7					
+		Reverse Gravity	tran			V,S,M/DF	1std	med	up to one 10-ft cube per two levels (s)	1 rd/lvl (d)	-; see text	n	Objects and creatures fall upward.	PHB	273			8			7	
+		Righteous Might	tran			V,S,DF	1std	personal	you	1 rd/lvl (d)			Your size increases, and you gain combat bonuses.	PHB	273		5					
+		Rope Trick	tran			V,S,M	1std	touch	one touched piece of rope from 5 ft to 30 ft long	1 hr/lvl (d)	-	n	As many as eight creatures hide in extradimensional space.	PHB	273						2	
+		Rusting Grasp	tran			V,S,DF	1std	touch	one nonmagical ferrous obj (or the volume of the obj within 3 ft of the touched point) or one ferrous creature	see text	-	n	Your touch corrodes iron and alloys.	PHB	273			4				
+		Sanctuary	abj			V,S,DF	1std	touch	creature touched	1 rd/lvl	will neg	n	Opponents cant attack you, and you can't attack.	PHB	274		1					
+		Scare	nec		fear, mind-affecting	V,S,M	1std	med	one living creature per three levels, no two of which can be more than 30 ft apart	1 rd/lvl or 1 rd; see text for cause fear	will part	y	Panics creatures of less than 6 HD.	PHB	274	2					2	
+		Scintillating Pattern	ill	pattern	mind-affecting	V,S,M	1std	close	colorful lights in a 20-ft-radius spread	(c) + 2 rds	-	y	Twisting colors confuse, stun, or render unconscious.	PHB	274						8	
+		Scorching Ray	evo		fire	V,S	1std	close	one or more rays	instant	-	y	Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).	PHB	274						2	
+		Screen	ill	glamer		V,S	10min	close	30-ft cube/level (s)	1 day	- or will disbelief (if interacted with); see text	n	Illusion hides area from vision, scrying.	PHB	274						8	
+		Scrying	div	scrying		V,S,F,M/DF	1hr	see text	magical sensor	1 min/lvl	will neg	y	Spies on subject from a distance.	PHB	274	3	5	4			4	
+		Scrying, Greater	div	scrying		V,S	1std	see text	magical sensor	1 hr/lvl	will neg	y	As scrying, but faster and longer.	PHB	275	6	7	7			7	
+		Sculpt Sound	tran			V,S	1std	close	one creature or obj/level, no two of which can be more than 30 ft apart	1 hr/lvl (d)	will neg (obj)	y (obj)	Creates new sounds or changes existing ones.	PHB	275	3						
+		Searing Light	evo			V,S	1std	med	ray	instant	-	y	Ray deals 1d8/two levels damage, more against undead.	PHB	275		3					
+		Secret Page	tran			V,S,M	10min	touch	page touched, up to 3 sq. ft in size	perm	-	n	Changes one page to hide its real content.	PHB	275	3					3	
+		See Invisibility	div			V,S,M	1std	personal	you	10 min/lvl (d)			Reveals invisible creatures or objects.	PHB	275	3					2	
+		Seeming	ill	glamer		V,S	1std	close	one creature per two levels, no two of which can be more than 30 ft apart	12 hrs (d)	will neg or will disbelief (if interacted with)	y or n; see text	Changes appearance of one person per two levels.	PHB	275	5					5	
+		Sending	evo			V,S,M/DF	10min	see text	one creature	1 rd; see text	-	n	Delivers short message anywhere, instantly.	PHB	275		4				5	
+		Sepia Snake Sigil	con	creation	force	V,S,M	10min	touch	one touched book or written work	perm or until dis; until released or 1d4 days + 1 day/lvl; see text	ref neg	n	Creates text symbol that immobilizes reader.	PHB	276	3					3	
+		Sequester	abj			V,S,M	1std	touch	one willing creature or obj (up to a 2-ft cube/level) touched	1 day/lvl (d)	- or will neg (obj)	n or y (obj)	Subject is invisible to sight and scrying; renders creature comatose.	PHB	276						7	
+		Shades	ill	shadow		V,S	1std	see text	see text	see text	will disbelief (if interacted with); varies; see text	y; see text	As shadow conjuration, but up to 8th level and 80% real.	PHB	276						9	
+		Shadow Conjuration	ill	shadow		V,S	1std	see text	see text	see text	will disbelief (if interacted with); varies; see text	y; see text	Mimics conjuring below 4th level, but only 20% real.	PHB	276	4					4	
+		Shadow Conjuration, Greater	ill	shadow		V,S	1std	see text	see text	see text	will disbelief (if interacted with); varies; see text	y; see text	As shadow conjuration, but up to 6th level and 60% real.	PHB	276						7	
+		Shadow Evocation	ill	shadow		V,S	1std	see text	see text	see text	will disbelief (if interacted with)	y	Mimics evocation of lower than 5th level, but only 20% real.	PHB	277	5					5	
+		Shadow Evocation, Greater	ill	shadow		V,S	1std	see text	see text	see text	will disbelief (if interacted with)	y	As shadow evocation, but up to 7th level and 60% real.	PHB	277						8	
+		Shadow Walk	ill	shadow		V,S	1std	touch	up to one touched creature/ level	1 hr/lvl (d)	will neg	y	Step into shadow to travel rapidly.	PHB	277	5					6	
+		Shambler	con	creation		V,S	1std	med	three or more shambling mounds, no two of which can be more than 30 ft apart; see text	7 days or 7 months (d); see text	-	n	Summons 1d4+2 shambling mounds to fight for you.	PHB	277			9				
+		Shapechange	tran			V,S,F	1std	personal	you	10 min/lvl (d)			Transforms you into any creature, and change forms once per round.	PHB	277			9			9	
+		Shatter	evo		sonic	V,S,M/DF	1std	close	5-ft-radius spread; or one solid obj or one crystalline creature	instant	will neg (obj); will neg (obj) or fort ½; see text	y (obj)	Sonic vibration damages objects or crystalline creatures.	PHB	278	2	2				2	
+		Shield	abj		force	V,S	1std	personal	you	1 min/lvl (d)			Invisible disc gives +4 to AC, blocks magic missiles.	PHB	278						1	
+		Shield of Faith	abj			V,S,M	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y (h/l)	Aura grants +2 or higher deflection bonus.	PHB	278		1					
+		Shield of Law	abj		lawful	V,S,F	1std	20 ft	one creature/level in a 20-ft-radius burst centered on you	1 rd/lvl (d)	see text	y (h/l)	+4 to AC, +4 resistance, and SR 25 against chaotic spells.	PHB	278		8					
+		Shield Other	abj			V,S,F	1std	close	one creature	1 hr/lvl (d)	will neg (h/l)	y (h/l)	You take half of subjects damage.	PHB	278		2		2			
+		Shillelagh	tran			V,S,DF	1std	touch	one touched nonmagical oak club or quarterstaff	1 min/lvl	will neg (obj)	y (obj)	Cudgel or quarterstaff becomes +1 weapon (1d10 damage) for 1 min./level.	PHB	278			1				
+		Shocking Grasp	evo		electricity	V,S	1std	touch	creature or obj touched	instant	-	y	Touch delivers 1d6/level electricity damage (max 5d6).	PHB	279						1	
+		Shout	evo		sonic	V	1std	30 ft	cone-shaped burst	instant	fort part or ref neg (obj); see text	y (obj)	Deafens all within cone and deals 5d6 sonic damage.	PHB	279	4					4	
+		Shout, Greater	evo		sonic	V,S,F	1std	60 ft	cone-shaped burst	instant	fort part or ref neg (obj); see text	y (obj)	Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.	PHB	279	6					8	
+		Shrink Item	tran			V,S	1std	touch	one touched obj of up to 2 cu. ft/level	1 day/lvl; see text	will neg (obj)	y (obj)	Object shrinks to one-sixteenth size.	PHB	279						3	
+		Silence	ill	glamer		V,S	1std	long	20-ft-radius emanation centered on a creature, obj, or point in space	1 min/lvl (d)	will neg; see text or none (obj)	y; see text or no (obj)	neg sound in 15-ft. radius.	PHB	279	2	2					
+		Silent Image	ill	figment		V,S,F	1std	long	visual figment that cannot extend beyond four 10-ft cubes + one 10-ft cube/level (s)	(c)	will disbelief (if interacted with)	n	Creates minor illusion of your design.	PHB	279	1					1	
+		Simulacrum	ill	shadow		V,S,M,XP	12hrs	0 ft	one duplicate creature	instant	-	n	Creates partially real double of a creature.	PHB	279						7	
+		Slay Living	nec		death, ectomancy	V,S	1std	touch	living creature touched	instant	fort part	y	Touch attack kills subject.	PHB	280		5					
+		Sleep	ench	compulsion	mind-affecting	V,S,M	1rd	med	one or more living creatures within a 10-ft-radius burst	1 min/lvl	will neg	y	Puts 4 HD of creatures into magical slumber.	PHB	280	1					1	
+		Sleet Storm	con	creation	cold	V,S,M/DF	1std	long	cylinder (40-ft radius, 20 ft high)	1 rd/lvl	-	n	Hampers vision and movement.	PHB	280			3			3	
+		Slow	tran			V,S,M	1std	close	one creature/level, no two of which can be more than 30 ft apart	1 rd/lvl	will neg	y	One subject/level takes only one action/round, 2 to AC and attack rolls.	PHB	280	3					3	
+		Snare	tran			V,S,DF	3rds	touch	touched nonmagical circle of vine, rope, or thong with a 2 ft diameter + 2 ft/level	until triggered or broken	-	n	Creates a magic booby trap.	PHB	280			3		2		
+		Soften Earth and Stone	tran		earth	V,S,DF	1std	close	10-ft square/level; see text	instant	-	n	Turns stone to clay or dirt to sand or mud.	PHB	280			2				
+		Solid Fog	con	creation		V,S,M	1std	med	fog spreads in 20-ft radius, 20 ft high	1 min/lvl	-	n	Blocks vision and slows movement.	PHB	281						4	
+		Song of Discord	ench	compulsion	mind-affecting, sonic	V,S	1std	med	creatures within a 20-ft-radius spread	1 rd/lvl	will neg	y	Forces targets to attack each other.	PHB	281	5						
+		Soul Bind	nec		ectomancy	V,S,F	1std	close	corpse	perm	will neg	n	Traps newly dead soul to prevent resurrection.	PHB	281		9				9	
+		Sound Burst	evo		sonic	V,S,F/DF	1std	close	10-ft-radius spread	instant	fort part	y	Deals 1d8 sonic damage to subjects; may stun them.	PHB	281	2	2					
+		Speak with Animals	div			V,S	1std	personal	you	1 min/lvl			You can communicate with animals.	PHB	281	3		1		1		
+		Speak with Dead	nec		language-dependent	V,S,DF	10min	10 ft	one dead creature	1 min/lvl	will neg; see text	n	Corpse answers one question/two levels.	PHB	281		3					
+		Speak with Plants	div			V,S	1std	personal	you	1 min/lvl			You can talk to normal plants and plant creatures.	PHB	282	4		3		2		
+		Spectral Hand	nec			V,S	1std	med	one spectral hand	1 min/lvl (d)	-	n	Creates disembodied glowing hand to deliver touch attacks.	PHB	282						2	
+		Spell Immunity	abj			V,S,DF	1std	touch	creature touched	10 min/lvl	will neg (h/l)	y (h/l)	Subject is immune to one spell per four levels.	PHB	282		4					
+		Spell Immunity, Greater	abj			V,S,DF	1std	touch	creature touched	10 min/lvl	will neg (h/l)	y (h/l)	As spell immunity, but up to 8th-level spells.	PHB	282		8					
+		Spell Resistance	abj			V,S,DF	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y (h/l)	Subject gains SR 12 + level.	PHB	282		5					
+		Spell Turning	abj			V,S,M/DF	1std	personal	you	10 min/lvl or until expended			Reflect 1d4+6 spell levels back at caster.	PHB	282						7	
+		Spellstaff	tran			V,S,F	10min	touch	wooden quarterstaff touched	perm until dis (d)	will neg (obj)	y (obj)	Stores one spell in wooden quarterstaff.	PHB	282			6				
+		Spider Climb	tran			V,S,M	1std	touch	creature touched	10 min/lvl	will neg (h/l)	y (h/l)	Grants ability to walk on walls and ceilings.	PHB	283			2			2	
+		Spike Growth	tran			V,S,DF	1std	med	one 20-ft square/level	1 hr/lvl (d)	ref part	y	Creatures in area take 1d4 damage, may be slowed.	PHB	283			3		2		
+		Spike Stones	tran		earth	V,S,DF	1std	med	one 20-ft square/level	1 hr/lvl (d)	ref part	y	Creatures in area take 1d8 damage, may be lowed.	PHB	283			4				
+		Spiritual Weapon	evo		force	V,S,DF	1std	med	magic weapon of force	1 rd/lvl (d)	-	y	Magic weapon attacks on its own.	PHB	283		2					
+		Statue	tran			V,S,M	1rd	touch	creature touched	1 hr/lvl (d)	will neg (h/l)	y (h/l)	Subject can become a statue at will.	PHB	284						7	
+		Status	div			V,S	1std	touch	one living creature touched per three levels	1 hr/lvl	will neg (h/l)	y (h/l)	Monitors condition, position of allies.	PHB	284		2					
+		Stinking Cloud	con	creation		V,S,M	1std	med	cloud spreads in 20-ft radius, 20 ft high	1 rd/lvl	fort neg; see text	n	Nauseating vapors, 1 round/level.	PHB	284						3	
+		Stone Shape	tran		earth	V,S,M/DF	1std	touch	stone or stone obj touched, up to 10 cu. ft + 1 cu. ft/level	instant	-	n	Sculpts stone into any shape.	PHB	284		3	3			4	
+		Stone Tell	div			V,S,DF	10min	personal	you	1 min/lvl			Talk to natural or worked stone.	PHB	284			6				
+		Stone to Flesh	tran			V,S,M	1std	med	one petrified creature or a cylinder of stone from 1 ft to 3 ft in diameter and up to 10 ft long	instant	fort neg (obj); see text	y	Restores petrified creature.	PHB	285						6	
+		Stoneskin	abj			V,S,M	1std	touch	creature touched	10 min/lvl or until dis	will neg (h/l)	y (h/l)	Ignore 10 points of damage per attack.	PHB	284			5			4	
+		Storm of Vengeance	con	summoning		V,S	1rd	long	360-ft-radius storm cloud	(c) (maximum 10 rds) (d)	see text	y	Storm rains acid, lightning, and hail.	PHB	285		9	9				
+		Suggestion	ench	compulsion	language-dependent, mind-affecting	V,M	1std	close	one living creature	1 hr/lvl or until completed	will neg	y	Compels subject to follow stated course of action.	PHB	285	2					3	
+		Suggestion, Mass	ench	compulsion	language-dependent, mind-affecting	V,M	1std	med	one creature/level, no two of which can be more than 30 ft apart	1 hr/lvl or until completed	will neg	y	As suggestion, plus one subject/level.	PHB	285	5					6	
+		Summon Instrument	con	summoning		V,S	1rd	0 ft	one summoned handheld musical instrument	1 min/lvl (d)	-	n	Summons one instrument of the casters choice.	PHB	285	0						
+		Summon Monster I	con	summoning	varies	V,S,F/DF	1rd	close	one summoned creature	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	285	1	1				1	
+		Summon Monster II	con	summoning		V,S,F/DF	1rd	close	one or more summoned creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	286	2	2				2	
+		Summon Monster III	con	summoning		V,S,F/DF	1rd	close	one or more summoned creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	286	3	3				3	
+		Summon Monster IV	con	summoning		V,S,F/DF	1rd	close	one or more summoned creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	286	4	4				4	
+		Summon Monster IX	con	summoning		V,S,F/DF	1rd	close	one or more summoned creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	288		9				9	
+		Summon Monster V	con	summoning		V,S,F/DF	1rd	close	one or more summoned creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	286	5	5				5	
+		Summon Monster VI	con	summoning		V,S,F/DF	1rd	close	one or more summoned creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	287	6	6				6	
+		Summon Monster VII	con	summoning		V,S,F/DF	1rd	close	one or more summoned creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	287		7				7	
+		Summon Monster VIII	con	summoning		V,S,F/DF	1rd	close	one or more summoned creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls extraplanar creature to fight for you.	PHB	287		8				8	
+		Summon Nature's Ally I	con	summoning		V,S,DF	1rd	close	one summoned creature	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	288			1		1		
+		Summon Nature's Ally II	con	summoning		V,S,DF	1rd	close	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	288			2		2		
+		Summon Nature's Ally III	con	summoning		V,S,DF	1rd	close	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	288			3		3		
+		Summon Nature's Ally IV	con	summoning		V,S,DF	1rd	close	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	288			4		4		
+		Summon Nature's Ally IX	con	summoning		V,S,DF	1rd	close	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	289			9				
+		Summon Nature's Ally V	con	summoning		V,S,DF	1rd	close	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	289			5				
+		Summon Nature's Ally VI	con	summoning		V,S,DF	1rd	close	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	289			6				
+		Summon Nature's Ally VII	con	summoning		V,S,DF	1rd	close	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	289			7				
+		Summon Nature's Ally VIII	con	summoning		V,S,DF	1rd	close	one or more creatures, no two of which can be more than 30 ft apart	1 rd/lvl (d)	-	n	Calls creature to fight.	PHB	289			8				
+		Summon Swarm	con	summoning		V,S,M/DF	1rd	close	one swarm of bats, rats, or spiders	(c) + 2 rds	-	n	Summons swarm of bats, rats, or spiders.	PHB	289	2		2			2	
+		Sunbeam	evo		light	V,S,DF	1std	60 ft	line from your hand	1 rd/lvl or until all beams are exhausted	ref neg & ref ½; see text	y	Beam blinds and deals 4d6 damage.	PHB	289			7				
+		Sunburst	evo		light	V,S,M/DF	1std	long	80-ft-radius burst	instant	ref part; see text	y	Blinds all within 10 ft., deals 6d6 damage.	PHB	289			8			8	
+		Surelife	abj			V,S,M	1rd	personal	you	1 min/lvl			Protects you from one kind of certain death.	PHB								
+		Symbol of Death	nec		death, ectomancy	V,S,M	10min	0 ft; see text	one symbol	see text	fort neg	y	Triggered rune slays nearby creatures.	PHB	289		8				8	
+		Symbol of Fear	nec		fear, mind-affecting	V,S,M	10min	0 ft; see text	one symbol	see text	will neg	y	Triggered rune panics nearby creatures.	PHB	290		6				6	
+		Symbol of Insanity	ench	compulsion	mind-affecting	V,S,M	10min	0 ft; see text	one symbol	see text	will neg	y	Triggered rune renders nearby creatures insane.	PHB	290		8				8	
+		Symbol of Pain	nec		evil	V,S,M	10min	0 ft; see text	one symbol	see text	fort neg	y	Triggered rune wracks nearby creatures with pain.	PHB	290		5				5	
+		Symbol of Persuasion	ench	charm	mind-affecting	V,S,M	10min	0 ft; see text	one symbol	see text	will neg	y	Triggered rune acts as charm monster on nearby creatures.	PHB	290		6				6	
+		Symbol of Sleep	ench	compulsion	mind-affecting	V,S,M	10min	0 ft; see text	one symbol	see text	will neg	y	Triggered rune puts nearby creatures into catatonic slumber.	PHB	291		5				5	
+		Symbol of Stunning	ench	compulsion	mind-affecting	V,S,M	10min	0 ft; see text	one symbol	see text	will neg	y	Triggered rune stuns nearby creatures.	PHB	291		7				7	
+		Symbol of Weakness	nec			V,S,M	10min	0 ft; see text	one symbol	see text	fort neg	y	Triggered rune weakens nearby creatures.	PHB	291		7				7	
+		Sympathetic Vibration	evo		sonic	V,S,F	10min	touch	one freestanding structure	up to 1 rd/lvl	-; see text	y	Deals 2d10 damage/round to freestanding structure.	PHB	291	6						
+		Sympathy	ench	compulsion	mind-affecting	V,S,M	1hr	close	one location (up to a 10-ft cube/level) or one obj	2 hrs/lvl (d)	will neg; see text	y	Object or location attracts certain creatures.	PHB	292			9			8	
+		Tasha's Hideous Laughter	ench	compulsion	mind-affecting	V,S,M	1std	close	one creature; see text	1 rd/lvl	will neg	y	Subject loses actions for 1 round/level.	PHB	292	1					2	
+		Telekinesis	tran			V,S	1std	long	see text	(c) (≤ 1 rd/lvl) or instant; see text	will neg (obj) or -; see text	y (obj); see text	Moves object, attacks creature, or hurls object or creature.	PHB	292						5	
+		Telepathic Bond, Lesser	div		mind-affecting	V,S	1std	30 ft	you and one willing creature within 30 ft	10 min/lvl	-	n	As telepathic bond, but you and one other creature.	PHB			3				3	
+		Teleport	con	teleportation		V	1std	personal and touch	you and touched objs or other touched willing creatures	instant	- & will neg (obj)	n and y (obj)	Instantly transports you as far as 100 miles/level.	PHB	292						5	
+		Teleport Object	con	teleportation		V	1std	personal and touch	one touched obj of up to 50 lb/level and 3 cu. ft/level	instant	will neg (obj)	y (obj)	As teleport, but affects a touched object.	PHB	293						7	
+		Teleport, Greater	con	teleportation		V	1std	personal and touch	you and touched objs or other touched willing creatures	instant	- & will neg (obj)	n and y (obj)	As teleport, but no range limit and no off-target arrival.	PHB	293						7	
+		Teleportation Circle	con	teleportation		V,M	10min	0 ft	5-ft-radius circle that teleports those who activate it	10 min/lvl (d)	-	y	Circle teleports any creature inside to designated spot.	PHB	293						9	
+		Temporal Stasis	tran			V,S,M	1std	touch	creature touched	perm	fort neg	y	Puts subject into suspended animation.	PHB	293						8	
+		Tenser's Floating Disk	evo		force	V,S,M	1std	close	3-ft-diameter disk of force	1 hr/lvl	-	n	Creates 3-ft.-diameter horizontal disk that holds 100 lb./level.	PHB	294						1	
+		Tenser's Transformation	tran			V,S,M	1std	personal	you	1 rd/lvl			You gain combat bonuses.	PHB	294						6	
+		Time Stop	tran			V	1std	personal	you	1d4+1 rds (apparent time); see text			You act freely for 1d4+1 rounds.	PHB	294						9	
+		Tongues	div			V,M/DF	1std	touch	creature touched	10 min/lvl	will neg (h/l)	n	Speak any language.	PHB	294	2	4				3	
+		Touch of Fatigue	nec		negative	V,S,M	1std	touch	creature touched	1 rd/lvl	fort neg	y	Touch attack fatigues target.	PHB	294						0	
+		Touch of Idiocy	ench	compulsion	mind-affecting	V,S	1std	touch	living creature touched	10 min/lvl	-	y	Subject takes 1d6 points of Int, Wis, and Cha damage.	PHB	294						2	
+		Touch of Madness	ench		mind-affecting	V,S	1std	touch	creature touched	1 rd/lvl	will neg	y	Dazes one creature for 1 round/level.	PHB								
+		Transmute Metal to Wood	tran			V,S,DF	1std	long	all metal objs within a 40-ft-radius burst	instant	-	y (obj); see text	Metal within 40 ft. becomes wood.	PHB	294			7				
+		Transmute Mud to Rock	tran		earth	V,S,M/DF	1std	med	up to two 10-ft cubes/level (s)	perm	see text	n	Transforms two 10-ft. cubes per level.	PHB	295			5			5	
+		Transmute Rock to Mud	tran		earth	V,S,M/DF	1std	med	up to two 10-ft cubes/level (s)	perm; see text	see text	n	Transforms two 10-ft. cubes per level.	PHB	295			5			5	
+		Transport via Plants	con	teleportation		V,S	1std	unlimited	you and touched objs or other touched willing creatures	1 rd	-	n	Move instantly from one plant to another of the same kind.	PHB	295			6				
+		Trap the Soul	con	summoning	ectomancy	V,S,M,F,text	1stdorseetext	close	one creature	perm; see text	see text	y; see text	Imprisons subject within gem.	PHB	295						8	
+		Tree Shape	tran			V,S,DF	1std	personal	you	1 hr/lvl (d)			You look exactly like a tree for 1 hour/level.	PHB	296			2		3		
+		Tree Stride	con	teleportation		V,S,DF	1std	personal	you	1 hr/lvl or until expended; see text			Step from one tree to another far away.	PHB	296			5		4		
+		True Resurrection	con	healing	ectomancy	V,S,M,DF	10min	touch	dead creature	instant	-; see text	y (h/l)	As resurrection, plus remains aren't needed.	PHB	296		9					
+		True Seeing	div			V,S,M	1std	touch	creature touched	1 min/lvl	will neg (h/l)	y (h/l)	Lets you see all things as they really are.	PHB	296		5	7			6	
+		True Strike	div			V,F	1std	personal	you	see text			+20 on your next attack roll.	PHB	296						1	
+		Undeath to Death	nec			V,S,M/DF	1std	med	several undead creatures within a 40-ft-radius burst	instant	will neg	y	Destroys 1d4 HD/level undead (max 20d4).	PHB	297		6				6	
+		Undetectable Alignment	abj			V,S	1std	close	one creature or obj	1 day	will neg (obj)	y (obj)	Conceals alignment for 24 hours.	PHB	297	1	2		2			
+		Unhallow	evo		evil	V,S,M	1day	touch	40-ft radius emanating from the touched point	instant	see text	see text	Designates location as unholy.	PHB	297		5	5				
+		Unholy Aura	abj		evil	V,S,F	1std	20 ft	one creature/level in a 20-ft-radius burst centered on you	1 rd/lvl (d)	see text	y (h/l)	+4 to AC, +4 resistance, and SR 25 against good spells.	PHB	297		8					
+		Unholy Blight	evo		evil	V,S	1std	med	20-ft-radius spread	instant (1d4 rds); see text	will part	y	Damages and sickens good creatures.	PHB	297							
+		Unseen Servant	con	creation		V,S,M	1std	close	one invisible, mindless, shapeless servant	1 hr/lvl	-	n	Invisible force obeys your commands.	PHB	297	1					1	
+		Vampiric Touch	nec			V,S	1std	touch	living creature touched	instant/1 hr; see text	-	y	Touch deals 1d6/two levels damage; caster gains damage as hp.	PHB	298						3	
+		Veil	ill	glamer		V,S	1std	long	one or more creatures, no two of which can be more than 30 ft apart	(c) + 1 hr/lvl (d)	will neg; see text	y; see text	Changes appearance of group of creatures.	PHB	298	6					6	
+		Ventriloquism	ill	figment		V,F	1std	close	intelligible sound, usually speech	1 min/lvl (d)	will disbelief (if interacted with)	n	Throws voice for 1 min./level.	PHB	298	1					1	
+		Virtue	tran			V,S,DF	1std	touch	creature touched	1 min	fort neg (h/l)	y (h/l)	Subject gains 1 temporary hp.	PHB	298		0	0	1			
+		Vision	div			V,S,M,XP	1std	personal	you	see text			As legend lore, but quicker and strenuous.	PHB	298						7	
+		Wail of the Banshee	nec		sonic, death, ectomancy	V	1std	close	one living creature/level within a 40-ft-radius spread	instant	fort neg	y	Kills one creature/level.	PHB	298						9	
+		Wall of Fire	evo		fire	V,S,M/DF	1std	med	opaque sheet of flame up to 20 ft long/level or a ring of fire with a radius of up to 5 ft per two levels; either form 20 ft high	(c) + 1 rd/lvl	-	y	Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.	PHB	298			5			4	
+		Wall of Force	evo		force	V,S,M	1std	close	wall whose area is up to one 10-ft square/level	1 rd/lvl (d)	-	n	Wall is immune to damage.	PHB	298						5	
+		Wall of Ice	evo		cold	V,S,M/DF	1std	med	anchored plane of ice, up to one 10-ft square/level, or hemisphere of ice with a radius of up to 3 ft + 1 ft/level	1 min/lvl	ref neg; see text	y	Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside.	PHB	299						4	
+		Wall of Iron	con	creation		V,S,M	1std	med	iron wall whose area is up to one 5-ft square/level; see text	instant	see text	n	30 hp/four levels; can topple onto foes.	PHB	299						6	
+		Wall of Stone	con	creation	earth	V,S,M/DF	1std	med	stone wall whose area is up to one 5-ft square/level (s)	instant	see text	n	Creates a stone wall that can be shaped.	PHB	299		5	6			5	
+		Wall of Thorns	con	creation		V,S	1std	med	wall of thorny brush, up to one 10-ft cube/level (s)	10 min/lvl (d)	-	n	Thorns damage anyone who tries to pass.	PHB	300			5				
+		Warp Wood	tran			V,S	1std	close	1 small wooden obj/level, all within a 20-ft radius	instant	will neg (obj)	y (obj)	Bends wood (shaft, handle, door, plank).	PHB	300			2				
+		Water Breathing	tran			V,S,M/DF	1std	touch	living creatures touched	2 hrs/lvl; see text	will neg (h/l)	y (h/l)	Subjects can breathe underwater.	PHB	300		3	3			3	
+		Water Walk	tran		water	V,S,DF	1std	touch	one touched creature/level	10 min/lvl (d)	will neg (h/l)	y (h/l)	Subject treads on water as if solid.	PHB	300		3			3		
+		Waves of Exhaustion	nec		negative	V,S	1std	60 ft	cone-shaped burst	instant	-	y	Several targets become exhausted.	PHB	301						7	
+		Waves of Fatigue	nec		negative	V,S	1std	30 ft	cone-shaped burst	instant	-	y	Several targets become fatigued.	PHB	301						5	
+		Web	con	creation		V,S,M	1std	med	webs in a 20-ft-radius spread	10 min/lvl (d)	ref neg; see text	n	Fills 20-ft.-radius spread with sticky spiderwebs.	PHB	301						2	
+		Weird	ill	phantasm	fear, mind-affecting	V,S	1std	med	any number of creatures, no two of which can be more than 30 ft apart	instant	will disbelief (if interacted with), then fort part; see text	y	As phantasmal killer, but affects all within 30 ft.	PHB	301						9	
+		Whirlwind	evo		air	V,S,DF	1std	long	cyclone 10 ft wide at base, 30 ft wide at top, and 30 ft tall	1 rd/lvl (d)	ref neg; see text	y	Cyclone deals damage and can pick up creatures.	PHB	301			8				
+		Whispering Wind	tran		air	V,S	1std	1 mi/level	10-ft-radius spread	no more than 1 hr/lvl or until dis (destination is reached)	-	n	Sends a short message 1 mile/level.	PHB	301	2					2	
+		Wind Walk	tran		air	V,S,DF	1std	touch	you and one touched creature per three levels	1 hr/lvl (d); see text	- & will neg (h/l)	n and y (h/l)	You and your allies turn vaporous and travel fast.	PHB	302		6	7				
+		Wind Wall	evo		air	V,S,M/DF	1std	med	wall up to 10 ft/level long and 5 ft/level high (s)	1 rd/lvl	-; see text	y	Deflects arrows, smaller creatures, and gases.	PHB	302		3	3		2	3	
+		Wish	uni			V,XP	1std	see text	see text	see text	see text	y	As limited wish, but with fewer limits.	PHB	302						9	
+		Wood Shape	tran			V,S,DF	1std	touch	one touched piece of wood no larger than 10 cu. ft + 1 cu. ft/level	instant	will neg (obj)	y (obj)	Rearranges wooden objects to suit you.	PHB	303			2				
+		Word of Chaos	evo		chaotic, sonic	V	1std	40 ft	nonchaotic creatures in a 40-ft- radius spread centered on you	instant	- or will neg; see text	y	Kills, confuses, stuns, or deafens nonchaotic subjects.	PHB	303		7					
+		Word of Recall	con	teleportation		V	1std	unlimited	you and touched objs or other willing creatures	instant	- or will neg (h/l, obj)	n or y (h/l, obj)	Teleports you back to designated place.	PHB	303		6	8				
+		Zone of Silence	ill	glamer		V,S	1rd	personal	5-ft-radius emanation centered on you	1 hr/lvl (d)	-	n	Keeps eavesdroppers from overhearing conversations.	PHB	303	4						
+		Zone of Truth	ench	compulsion	mind-affecting	V,S,DF	1std	close	20-ft-radius emanation	1 min/lvl	will neg	y	Subjects within range cannot lie.	PHB	303		2		2			
